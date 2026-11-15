@@ -1,0 +1,209 @@
+{
+ "fileName": "072_定远县_经济报表.xlsx",
+ "county": "定远县",
+ "sheets": [
+  "报表"
+ ],
+ "blocks": [
+  {
+   "sheet": "报表",
+   "blockIndex": 0,
+   "title": "定远县经济社会发展指标表",
+   "transposed": true,
+   "county": "定远县",
+   "period": "2026Q1",
+   "tableUnit": null,
+   "excludedRows": [
+    4
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "定远县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 162085,
+   "rawValue": 162085,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 1
+   }
+  },
+  {
+   "county": "定远县",
+   "metricCode": "A03",
+   "period": "2026Q1",
+   "value": 797744,
+   "rawValue": 797744,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 2
+   }
+  },
+  {
+   "county": "定远县",
+   "metricCode": "D02",
+   "period": "2026Q1",
+   "value": 871315,
+   "rawValue": 871315,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 3
+   }
+  },
+  {
+   "county": "定远县",
+   "metricCode": "A05",
+   "period": "2026Q1",
+   "value": 433055,
+   "rawValue": 433055,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 4
+   }
+  },
+  {
+   "county": "定远县",
+   "metricCode": "C02",
+   "period": "2026Q1",
+   "value": 678926,
+   "rawValue": 678926,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 5
+   }
+  },
+  {
+   "county": "定远县",
+   "metricCode": "C03",
+   "period": "2026Q1",
+   "value": 361502,
+   "rawValue": 361502,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 6
+   }
+  },
+  {
+   "county": "定远县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 6615,
+   "rawValue": 6615,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 7
+   }
+  },
+  {
+   "county": "定远县",
+   "metricCode": "E01",
+   "period": "2026Q1",
+   "value": 421579,
+   "rawValue": 421579,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 8
+   }
+  },
+  {
+   "county": "定远县",
+   "metricCode": "E02",
+   "period": "2026Q1",
+   "value": 939564,
+   "rawValue": 939564,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 9
+   }
+  },
+  {
+   "county": "定远县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 475233,
+   "rawValue": 475233,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 10
+   }
+  },
+  {
+   "county": "定远县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 440569,
+   "rawValue": 440569,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 11
+   }
+  },
+  {
+   "county": "定远县",
+   "metricCode": "B02",
+   "period": "2026Q1",
+   "value": 101107,
+   "rawValue": 101107,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 12
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "single-table",
+  "one-sheet",
+  "layout-transposed",
+  "tampered-total"
+ ]
+}

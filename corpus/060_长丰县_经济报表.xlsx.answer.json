@@ -1,0 +1,280 @@
+{
+ "fileName": "060_长丰县_经济报表.xlsx",
+ "county": "长丰县",
+ "sheets": [
+  "Sheet1"
+ ],
+ "blocks": [
+  {
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "title": "长丰县主要经济指标统计表",
+   "transposed": false,
+   "county": "长丰县",
+   "period": "2026Q1",
+   "tableUnit": null,
+   "excludedRows": [
+    4,
+    7,
+    8,
+    11,
+    15,
+    17,
+    19,
+    22,
+    23
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "长丰县",
+   "metricCode": "A02",
+   "period": "2026Q1",
+   "value": 656706,
+   "rawValue": 656706,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 1
+   }
+  },
+  {
+   "county": "长丰县",
+   "metricCode": "A05",
+   "period": "2026Q1",
+   "value": 352199,
+   "rawValue": 352199,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 1
+   }
+  },
+  {
+   "county": "长丰县",
+   "metricCode": "A04",
+   "period": "2026Q1",
+   "value": 723859,
+   "rawValue": 723859,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 1
+   }
+  },
+  {
+   "county": "长丰县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 1732764,
+   "rawValue": 1732764,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 8,
+    "col": 1
+   }
+  },
+  {
+   "county": "长丰县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 527178,
+   "rawValue": 527178,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 9,
+    "col": 1
+   }
+  },
+  {
+   "county": "长丰县",
+   "metricCode": "B02",
+   "period": "2026Q1",
+   "value": 362096,
+   "rawValue": 362096,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 10,
+    "col": 1
+   }
+  },
+  {
+   "county": "长丰县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 889274,
+   "rawValue": 889274,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G2",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 11,
+    "col": 1
+   }
+  },
+  {
+   "county": "长丰县",
+   "metricCode": "C02",
+   "period": "2026Q1",
+   "value": 251761,
+   "rawValue": 251761,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 12,
+    "col": 1
+   }
+  },
+  {
+   "county": "长丰县",
+   "metricCode": "C03",
+   "period": "2026Q1",
+   "value": 291794,
+   "rawValue": 291794,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 13,
+    "col": 1
+   }
+  },
+  {
+   "county": "长丰县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 88345,
+   "rawValue": 88345,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 14,
+    "col": 1
+   }
+  },
+  {
+   "county": "长丰县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 631900,
+   "rawValue": 631900,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G3",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 15,
+    "col": 1
+   }
+  },
+  {
+   "county": "长丰县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 100087,
+   "rawValue": 100087,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 16,
+    "col": 1
+   }
+  },
+  {
+   "county": "长丰县",
+   "metricCode": "D02",
+   "period": "2026Q1",
+   "value": 491003,
+   "rawValue": 491003,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 18,
+    "col": 1
+   }
+  },
+  {
+   "county": "长丰县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 591090,
+   "rawValue": 591090,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 19,
+    "col": 1
+   }
+  },
+  {
+   "county": "长丰县",
+   "metricCode": "E01",
+   "period": "2026Q1",
+   "value": 417255,
+   "rawValue": 417255,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 20,
+    "col": 1
+   }
+  },
+  {
+   "county": "长丰县",
+   "metricCode": "F01",
+   "period": "2026Q1",
+   "value": 700323,
+   "rawValue": 700323,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 21,
+    "col": 1
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "single-table",
+  "one-sheet",
+  "layout-vertical"
+ ]
+}

@@ -1,0 +1,352 @@
+{
+ "fileName": "184_金凤县_经济报表.xlsx",
+ "county": "金凤县",
+ "sheets": [
+  "Sheet1"
+ ],
+ "blocks": [
+  {
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "title": "金凤县2026年第一季度经济指标表",
+   "transposed": false,
+   "county": "金凤县",
+   "period": "2026Q1",
+   "tableUnit": "亿元",
+   "excludedRows": [
+    4,
+    10,
+    11,
+    14,
+    15,
+    18,
+    19
+   ]
+  },
+  {
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "title": "金凤县经济社会发展指标表",
+   "transposed": false,
+   "county": "金凤县",
+   "period": null,
+   "tableUnit": "千元",
+   "excludedRows": [
+    7
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "金凤县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 954298000000000000,
+   "rawValue": 95429800000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "A02",
+   "period": "2026Q1",
+   "value": 733962000000000000,
+   "rawValue": 73396200000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "A03",
+   "period": "2026Q1",
+   "value": 318467000000000000,
+   "rawValue": 31846700000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 7,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "A04",
+   "period": "2026Q1",
+   "value": 634891000000000000,
+   "rawValue": 63489100000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 8,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "A05",
+   "period": "2026Q1",
+   "value": 505056000000000000,
+   "rawValue": 50505600000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 9,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 3146674000000000000,
+   "rawValue": 314667400000000,
+   "sourceUnit": "亿元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 10,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 174711000000000000,
+   "rawValue": 17471100000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 12,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "B02",
+   "period": "2026Q1",
+   "value": 915373000000000000,
+   "rawValue": 91537300000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 13,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 1090084000000000000,
+   "rawValue": 109008400000000,
+   "sourceUnit": "亿元",
+   "rowKind": "subtotal",
+   "groupCode": "G2",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 14,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 866711000000000000,
+   "rawValue": 86671100000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 16,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "D02",
+   "period": "2026Q1",
+   "value": 72839000000000000,
+   "rawValue": 7283900000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 17,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 939550000000000000,
+   "rawValue": 93955000000000,
+   "sourceUnit": "亿元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 18,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "E02",
+   "period": "2026Q1",
+   "value": 321911000000000,
+   "rawValue": 321911000000,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 5,
+    "col": 5
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "E02",
+   "period": "2026Q2",
+   "value": 237212000000000,
+   "rawValue": 237212000000,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 5,
+    "col": 6
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "E02",
+   "period": "2026Q3",
+   "value": 241233000000000,
+   "rawValue": 241233000000,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 5,
+    "col": 7
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "E02",
+   "period": "2026Q4",
+   "value": 103577000000000,
+   "rawValue": 103577000000,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 5,
+    "col": 8
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "E01",
+   "period": "2026Q1",
+   "value": 703773000000000,
+   "rawValue": 703773000000,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 6,
+    "col": 5
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "E01",
+   "period": "2026Q2",
+   "value": 240482000000000,
+   "rawValue": 240482000000,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 6,
+    "col": 6
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "E01",
+   "period": "2026Q3",
+   "value": 113120000000000,
+   "rawValue": 113120000000,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 6,
+    "col": 7
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "E01",
+   "period": "2026Q4",
+   "value": 704820000000000,
+   "rawValue": 704820000000,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 6,
+    "col": 8
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "multi-table-side-by-side",
+  "one-sheet",
+  "layout-vertical",
+  "unit-亿元",
+  "multi-period",
+  "unit-千元"
+ ]
+}

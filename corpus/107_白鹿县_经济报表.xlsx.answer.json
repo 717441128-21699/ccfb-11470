@@ -1,0 +1,292 @@
+{
+ "fileName": "107_白鹿县_经济报表.xlsx",
+ "county": "白鹿县",
+ "sheets": [
+  "经济指标表"
+ ],
+ "blocks": [
+  {
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "title": "白鹿县经济社会发展指标表",
+   "transposed": false,
+   "county": "白鹿县",
+   "period": "2026Q1",
+   "tableUnit": null,
+   "excludedRows": [
+    8,
+    11,
+    12,
+    16,
+    19,
+    21
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "白鹿县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 112551,
+   "rawValue": 112551,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 1
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "A02",
+   "period": "2026Q1",
+   "value": 395808,
+   "rawValue": 395808,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "A03",
+   "period": "2026Q1",
+   "value": 463669,
+   "rawValue": 463669,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 1
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "A04",
+   "period": "2026Q1",
+   "value": null,
+   "rawValue": null,
+   "sourceUnit": null,
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 1
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "A05",
+   "period": "2026Q1",
+   "value": 156398,
+   "rawValue": 156398,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 7,
+    "col": 1
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 1128426,
+   "rawValue": 1128426,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 8,
+    "col": 1
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 525020,
+   "rawValue": 525020,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 9,
+    "col": 1
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "B02",
+   "period": "2026Q1",
+   "value": 800370,
+   "rawValue": 800370,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 10,
+    "col": 1
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 1325390,
+   "rawValue": 1325390,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G2",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 11,
+    "col": 1
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 882624,
+   "rawValue": 882624,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 13,
+    "col": 1
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "C02",
+   "period": "2026Q1",
+   "value": 65973,
+   "rawValue": 65973,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 14,
+    "col": 1
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "C03",
+   "period": "2026Q1",
+   "value": 694108,
+   "rawValue": 694108,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 15,
+    "col": 1
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 1642705,
+   "rawValue": 1642705,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G3",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 16,
+    "col": 1
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 194327,
+   "rawValue": 194327,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 17,
+    "col": 1
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "D02",
+   "period": "2026Q1",
+   "value": 861783,
+   "rawValue": 861783,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 18,
+    "col": 1
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 1056110,
+   "rawValue": 1056110,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 19,
+    "col": 1
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "F01",
+   "period": "2026Q1",
+   "value": 580718,
+   "rawValue": 580718,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 20,
+    "col": 1
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "single-table",
+  "one-sheet",
+  "layout-vertical"
+ ]
+}

@@ -1,0 +1,139 @@
+{
+ "fileName": "177_福海县_经济报表.xlsx",
+ "county": "福海县",
+ "sheets": [
+  "Sheet1"
+ ],
+ "blocks": [
+  {
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "title": "福海县2026年季度经济运行报表",
+   "transposed": false,
+   "county": "福海县",
+   "period": "2026Q1",
+   "tableUnit": null,
+   "excludedRows": [
+    3,
+    6,
+    7,
+    10,
+    12
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "福海县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 699160,
+   "rawValue": 699160,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "B02",
+   "period": "2026Q1",
+   "value": 270115,
+   "rawValue": 270115,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 1
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 969275,
+   "rawValue": 969275,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G2",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 1
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 824878,
+   "rawValue": 824878,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 8,
+    "col": 1
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "D02",
+   "period": "2026Q1",
+   "value": 176799,
+   "rawValue": 176799,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 9,
+    "col": 1
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 1001677,
+   "rawValue": 1001677,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 10,
+    "col": 1
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "F01",
+   "period": "2026Q1",
+   "value": 72810,
+   "rawValue": 72810,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 11,
+    "col": 1
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "single-table",
+  "two-sheets",
+  "layout-vertical"
+ ]
+}

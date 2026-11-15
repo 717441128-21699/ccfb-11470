@@ -1,0 +1,755 @@
+{
+ "fileName": "003_龙泉县_经济报表.xlsx",
+ "county": "龙泉县",
+ "sheets": [
+  "数据"
+ ],
+ "blocks": [
+  {
+   "sheet": "数据",
+   "blockIndex": 0,
+   "title": "龙泉县统计季报",
+   "transposed": false,
+   "county": "龙泉县",
+   "period": null,
+   "tableUnit": null,
+   "excludedRows": [
+    3,
+    6,
+    7,
+    8,
+    10,
+    13,
+    14,
+    15,
+    18
+   ]
+  },
+  {
+   "sheet": "数据",
+   "blockIndex": 1,
+   "title": "龙泉县主要经济指标统计表",
+   "transposed": false,
+   "county": "龙泉县",
+   "period": "2026Q1",
+   "tableUnit": null,
+   "excludedRows": [
+    3,
+    9,
+    10,
+    13,
+    14,
+    16,
+    17
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "龙泉县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 862681,
+   "rawValue": 862681,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "B01",
+   "period": "2026Q2",
+   "value": 711631,
+   "rawValue": 711631,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 2
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "B01",
+   "period": "2026Q3",
+   "value": 632277,
+   "rawValue": 632277,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 3
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "B01",
+   "period": "2026Q4",
+   "value": 713436,
+   "rawValue": 713436,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 4
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "B02",
+   "period": "2026Q1",
+   "value": 181455,
+   "rawValue": 181455,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 1
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "B02",
+   "period": "2026Q2",
+   "value": 4068,
+   "rawValue": 4068,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 2
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "B02",
+   "period": "2026Q3",
+   "value": 804839,
+   "rawValue": 804839,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 3
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "B02",
+   "period": "2026Q4",
+   "value": 360700,
+   "rawValue": 360700,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 4
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 1044136,
+   "rawValue": 1044136,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G2",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 1
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "B01",
+   "period": "2026Q2",
+   "value": 715699,
+   "rawValue": 715699,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G2",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 2
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "B01",
+   "period": "2026Q3",
+   "value": 1437116,
+   "rawValue": 1437116,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G2",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 3
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "B01",
+   "period": "2026Q4",
+   "value": 1074136,
+   "rawValue": 1074136,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G2",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 4
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 298008,
+   "rawValue": 298008,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 9,
+    "col": 1
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "C01",
+   "period": "2026Q2",
+   "value": 307690,
+   "rawValue": 307690,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 9,
+    "col": 2
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "C01",
+   "period": "2026Q3",
+   "value": 350182,
+   "rawValue": 350182,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 9,
+    "col": 3
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "C01",
+   "period": "2026Q4",
+   "value": 973843,
+   "rawValue": 973843,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 9,
+    "col": 4
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "C02",
+   "period": "2026Q1",
+   "value": 799960,
+   "rawValue": 799960,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 11,
+    "col": 1
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "C02",
+   "period": "2026Q2",
+   "value": 583290,
+   "rawValue": 583290,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 11,
+    "col": 2
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "C02",
+   "period": "2026Q3",
+   "value": 241353,
+   "rawValue": 241353,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 11,
+    "col": 3
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "C02",
+   "period": "2026Q4",
+   "value": 121874,
+   "rawValue": 121874,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 11,
+    "col": 4
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "C03",
+   "period": "2026Q1",
+   "value": 304670,
+   "rawValue": 304670,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 12,
+    "col": 1
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "C03",
+   "period": "2026Q2",
+   "value": 612394,
+   "rawValue": 612394,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 12,
+    "col": 2
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "C03",
+   "period": "2026Q3",
+   "value": 598942,
+   "rawValue": 598942,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 12,
+    "col": 3
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "C03",
+   "period": "2026Q4",
+   "value": 263103,
+   "rawValue": 263103,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 12,
+    "col": 4
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 1402638,
+   "rawValue": 1402638,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G3",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 14,
+    "col": 1
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "C01",
+   "period": "2026Q2",
+   "value": 1503374,
+   "rawValue": 1503374,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G3",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 14,
+    "col": 2
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "C01",
+   "period": "2026Q3",
+   "value": 1190477,
+   "rawValue": 1190477,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G3",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 14,
+    "col": 3
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "C01",
+   "period": "2026Q4",
+   "value": 1358820,
+   "rawValue": 1358820,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G3",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 14,
+    "col": 4
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "E01",
+   "period": "2026Q1",
+   "value": 546264,
+   "rawValue": 546264,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 16,
+    "col": 1
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "E01",
+   "period": "2026Q2",
+   "value": 823909,
+   "rawValue": 823909,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 16,
+    "col": 2
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "E01",
+   "period": "2026Q3",
+   "value": 650449,
+   "rawValue": 650449,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 16,
+    "col": 3
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "E01",
+   "period": "2026Q4",
+   "value": 96880,
+   "rawValue": 96880,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 16,
+    "col": 4
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "E02",
+   "period": "2026Q1",
+   "value": 633696,
+   "rawValue": 633696,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 17,
+    "col": 1
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "E02",
+   "period": "2026Q2",
+   "value": 657900,
+   "rawValue": 657900,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 17,
+    "col": 2
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "E02",
+   "period": "2026Q3",
+   "value": 266736,
+   "rawValue": 266736,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 17,
+    "col": 3
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "E02",
+   "period": "2026Q4",
+   "value": 921739,
+   "rawValue": 921739,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 17,
+    "col": 4
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 450789,
+   "rawValue": 450789,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 4,
+    "col": 9
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "A02",
+   "period": "2026Q1",
+   "value": 15845,
+   "rawValue": 15845,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 5,
+    "col": 9
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "A03",
+   "period": "2026Q1",
+   "value": 858244,
+   "rawValue": 858244,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 6,
+    "col": 9
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "A04",
+   "period": "2026Q1",
+   "value": 836651,
+   "rawValue": 836651,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 7,
+    "col": 9
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "A05",
+   "period": "2026Q1",
+   "value": 415886,
+   "rawValue": 415886,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 8,
+    "col": 9
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 2577415,
+   "rawValue": 2577415,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 9,
+    "col": 9
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 695421,
+   "rawValue": 695421,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 11,
+    "col": 9
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "D02",
+   "period": "2026Q1",
+   "value": 31615,
+   "rawValue": 31615,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 12,
+    "col": 9
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 727036,
+   "rawValue": 727036,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 14,
+    "col": 9
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "F01",
+   "period": "2026Q1",
+   "value": 297515,
+   "rawValue": 297515,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 15,
+    "col": 9
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "multi-table-side-by-side",
+  "one-sheet",
+  "layout-vertical",
+  "multi-period"
+ ]
+}

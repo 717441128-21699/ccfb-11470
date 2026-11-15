@@ -1,0 +1,341 @@
+{
+ "fileName": "044_金凤县_经济报表.xlsx",
+ "county": "金凤县",
+ "sheets": [
+  "Sheet1"
+ ],
+ "blocks": [
+  {
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "title": "金凤县统计季报",
+   "transposed": false,
+   "county": "金凤县",
+   "period": "2026Q1",
+   "tableUnit": null,
+   "excludedRows": [
+    3,
+    6,
+    7,
+    8,
+    11,
+    13,
+    15
+   ]
+  },
+  {
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "title": "金凤县统计季报",
+   "transposed": false,
+   "county": "金凤县",
+   "period": "2026Q1",
+   "tableUnit": null,
+   "excludedRows": [
+    20,
+    24,
+    27,
+    28,
+    31,
+    32,
+    35
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "金凤县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 563669,
+   "rawValue": 563669,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "B02",
+   "period": "2026Q1",
+   "value": 870790,
+   "rawValue": 870790,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 1434459,
+   "rawValue": 1434459,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G2",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 824222,
+   "rawValue": 824222,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 9,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "C02",
+   "period": "2026Q1",
+   "value": 752890,
+   "rawValue": 752890,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 10,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "C03",
+   "period": "2026Q1",
+   "value": 152711,
+   "rawValue": 152711,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 12,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 1729823,
+   "rawValue": 1729823,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G3",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 13,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "F01",
+   "period": "2026Q1",
+   "value": 467682,
+   "rawValue": 467682,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 14,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 46197,
+   "rawValue": 46197,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 21,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "A02",
+   "period": "2026Q1",
+   "value": null,
+   "rawValue": null,
+   "sourceUnit": null,
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 22,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "A03",
+   "period": "2026Q1",
+   "value": 915095,
+   "rawValue": 915095,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 23,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "A04",
+   "period": "2026Q1",
+   "value": 788277,
+   "rawValue": 788277,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 25,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "A05",
+   "period": "2026Q1",
+   "value": 918069,
+   "rawValue": 918069,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 26,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 2667638,
+   "rawValue": 2667638,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 27,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 409712,
+   "rawValue": 409712,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 29,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "D02",
+   "period": "2026Q1",
+   "value": 942823,
+   "rawValue": 942823,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 30,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 1352535,
+   "rawValue": 1352535,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 31,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "E01",
+   "period": "2026Q1",
+   "value": 967930,
+   "rawValue": 967930,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 33,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "E02",
+   "period": "2026Q1",
+   "value": 793194,
+   "rawValue": 793194,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 34,
+    "col": 1
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "multi-table-stacked",
+  "one-sheet",
+  "layout-vertical"
+ ]
+}

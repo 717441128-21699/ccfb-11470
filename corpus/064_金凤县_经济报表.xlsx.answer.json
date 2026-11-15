@@ -1,0 +1,112 @@
+{
+ "fileName": "064_金凤县_经济报表.xlsx",
+ "county": "金凤县",
+ "sheets": [
+  "数据"
+ ],
+ "blocks": [
+  {
+   "sheet": "数据",
+   "blockIndex": 0,
+   "title": "金凤县2026年季度经济运行报表",
+   "transposed": true,
+   "county": "金凤县",
+   "period": "2026Q1",
+   "tableUnit": "万元",
+   "excludedRows": []
+  },
+  {
+   "sheet": "数据",
+   "blockIndex": 1,
+   "title": "金凤县主要经济指标统计表",
+   "transposed": false,
+   "county": "金凤县",
+   "period": "2026Q1",
+   "tableUnit": "万吨标准煤",
+   "excludedRows": []
+  }
+ ],
+ "records": [
+  {
+   "county": "金凤县",
+   "metricCode": "B02",
+   "period": "2026Q1",
+   "value": 470986,
+   "rawValue": 470986,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 610542,
+   "rawValue": 610542,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 2
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "D02",
+   "period": "2026Q1",
+   "value": 859495,
+   "rawValue": 859495,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 3
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 721287,
+   "rawValue": 721287,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 4
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "F01",
+   "period": "2026Q1",
+   "value": 533649000000000000,
+   "rawValue": 53364900000000,
+   "sourceUnit": "万吨标准煤",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 9,
+    "col": 1
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "multi-table-stacked",
+  "one-sheet",
+  "layout-transposed",
+  "unit-万吨标准煤"
+ ]
+}

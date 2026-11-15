@@ -1,0 +1,119 @@
+{
+ "fileName": "157_福海县_经济报表.xlsx",
+ "county": "福海县",
+ "sheets": [
+  "Sheet1"
+ ],
+ "blocks": [
+  {
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "title": "福海县2026年季度经济运行报表",
+   "transposed": true,
+   "county": "福海县",
+   "period": null,
+   "tableUnit": "元",
+   "excludedRows": [
+    7
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "福海县",
+   "metricCode": "E01",
+   "period": "2026Q1",
+   "value": 7893,
+   "rawValue": 7893,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "E02",
+   "period": "2026Q1",
+   "value": 805781,
+   "rawValue": 805781,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 2
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "E01",
+   "period": "2026Q2",
+   "value": 866200,
+   "rawValue": 866200,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 1
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "E02",
+   "period": "2026Q2",
+   "value": 703919,
+   "rawValue": 703919,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 2
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "E01",
+   "period": "2026Q3",
+   "value": 902915,
+   "rawValue": 902915,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 1
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "E02",
+   "period": "2026Q3",
+   "value": 703200,
+   "rawValue": 703200,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 2
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "single-table",
+  "one-sheet",
+  "layout-transposed",
+  "multi-period"
+ ]
+}

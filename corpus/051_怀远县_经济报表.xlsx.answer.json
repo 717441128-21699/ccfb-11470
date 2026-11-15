@@ -1,0 +1,360 @@
+{
+ "fileName": "051_怀远县_经济报表.xlsx",
+ "county": "怀远县",
+ "sheets": [
+  "报表"
+ ],
+ "blocks": [
+  {
+   "sheet": "报表",
+   "blockIndex": 0,
+   "title": "怀远县统计季报",
+   "transposed": true,
+   "county": "怀远县",
+   "period": null,
+   "tableUnit": null,
+   "excludedRows": [
+    5,
+    6
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "怀远县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 203245,
+   "rawValue": 203245,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 1
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "A02",
+   "period": "2026Q1",
+   "value": 565190,
+   "rawValue": 565190,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 2
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "A03",
+   "period": "2026Q1",
+   "value": 826739,
+   "rawValue": 826739,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 3
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "A04",
+   "period": "2026Q1",
+   "value": 642410,
+   "rawValue": 642410,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 4
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "A05",
+   "period": "2026Q1",
+   "value": 237093,
+   "rawValue": 237093,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 5
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 552276,
+   "rawValue": 552276,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 6
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "B02",
+   "period": "2026Q1",
+   "value": 788875,
+   "rawValue": 788875,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 7
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 625553,
+   "rawValue": 625553,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 8
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "C02",
+   "period": "2026Q1",
+   "value": 399101,
+   "rawValue": 399101,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 9
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "C03",
+   "period": "2026Q1",
+   "value": 160306,
+   "rawValue": 160306,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 10
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "F01",
+   "period": "2026Q1",
+   "value": 881011,
+   "rawValue": 881011,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 11
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "A01",
+   "period": "2026Q2",
+   "value": 842010,
+   "rawValue": 842010,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "A02",
+   "period": "2026Q2",
+   "value": 652239,
+   "rawValue": 652239,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 2
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "A03",
+   "period": "2026Q2",
+   "value": 471479,
+   "rawValue": 471479,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 3
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "A04",
+   "period": "2026Q2",
+   "value": 652279,
+   "rawValue": 652279,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 4
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "A05",
+   "period": "2026Q2",
+   "value": 889443,
+   "rawValue": 889443,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 5
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "B01",
+   "period": "2026Q2",
+   "value": 765198,
+   "rawValue": 765198,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 6
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "B02",
+   "period": "2026Q2",
+   "value": 751423,
+   "rawValue": 751423,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 7
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "C01",
+   "period": "2026Q2",
+   "value": null,
+   "rawValue": null,
+   "sourceUnit": null,
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 8
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "C02",
+   "period": "2026Q2",
+   "value": 753682,
+   "rawValue": 753682,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 9
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "C03",
+   "period": "2026Q2",
+   "value": 675072,
+   "rawValue": 675072,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 10
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "F01",
+   "period": "2026Q2",
+   "value": null,
+   "rawValue": null,
+   "sourceUnit": null,
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 11
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "single-table",
+  "one-sheet",
+  "layout-transposed",
+  "multi-period"
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "fileName": "199_永清县_经济报表.xlsx",
+ "county": "永清县",
+ "sheets": [
+  "数据"
+ ],
+ "blocks": [
+  {
+   "sheet": "数据",
+   "blockIndex": 0,
+   "title": "永清县2026年第一季度经济指标表",
+   "transposed": false,
+   "county": "永清县",
+   "period": "2026Q1",
+   "tableUnit": "元",
+   "excludedRows": [
+    5,
+    7
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "永清县",
+   "metricCode": "E02",
+   "period": "2026Q1",
+   "value": 553100,
+   "rawValue": 553100,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "E01",
+   "period": "2026Q1",
+   "value": 515511,
+   "rawValue": 515511,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 1
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "E02",
+   "period": "2026Q1",
+   "value": 1068611,
+   "rawValue": 1068611,
+   "sourceUnit": "元",
+   "rowKind": "grandtotal",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 7,
+    "col": 1
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "single-table",
+  "one-sheet",
+  "layout-vertical"
+ ]
+}

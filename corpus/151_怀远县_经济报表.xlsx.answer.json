@@ -1,0 +1,374 @@
+{
+ "fileName": "151_怀远县_经济报表.xlsx",
+ "county": "怀远县",
+ "sheets": [
+  "数据"
+ ],
+ "blocks": [
+  {
+   "sheet": "数据",
+   "blockIndex": 0,
+   "title": "怀远县2026年季度经济运行报表",
+   "transposed": true,
+   "county": "怀远县",
+   "period": null,
+   "tableUnit": null,
+   "excludedRows": [
+    6
+   ]
+  },
+  {
+   "sheet": "数据",
+   "blockIndex": 1,
+   "title": "怀远县主要经济指标统计表",
+   "transposed": true,
+   "county": "怀远县",
+   "period": null,
+   "tableUnit": "万吨标准煤",
+   "excludedRows": [
+    5
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "怀远县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 852189,
+   "rawValue": 852189,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "A02",
+   "period": "2026Q1",
+   "value": 113207,
+   "rawValue": 113207,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 2
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "A03",
+   "period": "2026Q1",
+   "value": 967052,
+   "rawValue": 967052,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 3
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "A04",
+   "period": "2026Q1",
+   "value": 792299,
+   "rawValue": 792299,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 4
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "A05",
+   "period": "2026Q1",
+   "value": 219839,
+   "rawValue": 219839,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 5
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 929408,
+   "rawValue": 929408,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 6
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "C02",
+   "period": "2026Q1",
+   "value": 229152,
+   "rawValue": 229152,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 7
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "C03",
+   "period": "2026Q1",
+   "value": 127234,
+   "rawValue": 127234,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 8
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "E01",
+   "period": "2026Q1",
+   "value": 91012,
+   "rawValue": 91012,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 9
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "E02",
+   "period": "2026Q1",
+   "value": 965912,
+   "rawValue": 965912,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 10
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "A01",
+   "period": "2026Q2",
+   "value": 352467,
+   "rawValue": 352467,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 1
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "A02",
+   "period": "2026Q2",
+   "value": 895391,
+   "rawValue": 895391,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 2
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "A03",
+   "period": "2026Q2",
+   "value": 534935,
+   "rawValue": 534935,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 3
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "A04",
+   "period": "2026Q2",
+   "value": 714590,
+   "rawValue": 714590,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 4
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "A05",
+   "period": "2026Q2",
+   "value": 785567,
+   "rawValue": 785567,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 5
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "C01",
+   "period": "2026Q2",
+   "value": 916414,
+   "rawValue": 916414,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 6
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "C02",
+   "period": "2026Q2",
+   "value": 513116,
+   "rawValue": 513116,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 7
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "C03",
+   "period": "2026Q2",
+   "value": 682030,
+   "rawValue": 682030,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 8
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "E01",
+   "period": "2026Q2",
+   "value": 28903,
+   "rawValue": 28903,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 9
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "E02",
+   "period": "2026Q2",
+   "value": 142773,
+   "rawValue": 142773,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 10
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "F01",
+   "period": "2026Q1",
+   "value": 618493000000000000,
+   "rawValue": 61849300000000,
+   "sourceUnit": "万吨标准煤",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 3,
+    "col": 14
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "F01",
+   "period": "2026Q2",
+   "value": 1396000000000000,
+   "rawValue": 139600000000,
+   "sourceUnit": "万吨标准煤",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 4,
+    "col": 14
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "multi-table-side-by-side",
+  "one-sheet",
+  "layout-transposed",
+  "multi-period",
+  "multi-period",
+  "unit-万吨标准煤",
+  "tampered-total"
+ ]
+}

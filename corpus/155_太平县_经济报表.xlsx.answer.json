@@ -1,0 +1,238 @@
+{
+ "fileName": "155_太平县_经济报表.xlsx",
+ "county": "太平县",
+ "sheets": [
+  "Sheet1"
+ ],
+ "blocks": [
+  {
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "title": "太平县2026年第一季度经济指标表",
+   "transposed": true,
+   "county": "太平县",
+   "period": "2026Q1",
+   "tableUnit": null,
+   "excludedRows": [
+    4
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "太平县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 598063,
+   "rawValue": 598063,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 1
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "A02",
+   "period": "2026Q1",
+   "value": 861154,
+   "rawValue": 861154,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 2
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "A03",
+   "period": "2026Q1",
+   "value": 938165,
+   "rawValue": 938165,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 3
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "A04",
+   "period": "2026Q1",
+   "value": 528459,
+   "rawValue": 528459,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 4
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "A05",
+   "period": "2026Q1",
+   "value": 310656,
+   "rawValue": 310656,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 5
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 609537,
+   "rawValue": 609537,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 6
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "B02",
+   "period": "2026Q1",
+   "value": 238429,
+   "rawValue": 238429,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 7
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 788992,
+   "rawValue": 788992,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 8
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "C02",
+   "period": "2026Q1",
+   "value": 238117,
+   "rawValue": 238117,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 9
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "C03",
+   "period": "2026Q1",
+   "value": 134465,
+   "rawValue": 134465,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 10
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 678047,
+   "rawValue": 678047,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 11
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "D02",
+   "period": "2026Q1",
+   "value": 617861,
+   "rawValue": 617861,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 12
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "E01",
+   "period": "2026Q1",
+   "value": 383188,
+   "rawValue": 383188,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 13
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "E02",
+   "period": "2026Q1",
+   "value": 847482,
+   "rawValue": 847482,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 14
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "single-table",
+  "two-sheets",
+  "layout-transposed"
+ ]
+}

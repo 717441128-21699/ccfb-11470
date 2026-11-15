@@ -1,0 +1,585 @@
+{
+ "fileName": "104_金凤县_经济报表.xlsx",
+ "county": "金凤县",
+ "sheets": [
+  "经济指标表"
+ ],
+ "blocks": [
+  {
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "title": "金凤县主要经济指标统计表",
+   "transposed": false,
+   "county": "金凤县",
+   "period": "2026Q1",
+   "tableUnit": "万元",
+   "excludedRows": [
+    9,
+    12,
+    15
+   ]
+  },
+  {
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "title": "金凤县统计季报",
+   "transposed": true,
+   "county": "金凤县",
+   "period": null,
+   "tableUnit": null,
+   "excludedRows": []
+  }
+ ],
+ "records": [
+  {
+   "county": "金凤县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 883275,
+   "rawValue": 883275,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "A02",
+   "period": "2026Q1",
+   "value": null,
+   "rawValue": null,
+   "sourceUnit": null,
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "A03",
+   "period": "2026Q1",
+   "value": 59794,
+   "rawValue": 59794,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "A04",
+   "period": "2026Q1",
+   "value": 360028,
+   "rawValue": 360028,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 7,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "A05",
+   "period": "2026Q1",
+   "value": 423952,
+   "rawValue": 423952,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 8,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 1727049,
+   "rawValue": 1727049,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 9,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 682036,
+   "rawValue": 682036,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 10,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "B02",
+   "period": "2026Q1",
+   "value": 919488,
+   "rawValue": 919488,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 11,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 1601524,
+   "rawValue": 1601524,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G2",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 12,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 443419,
+   "rawValue": 443419,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 13,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "D02",
+   "period": "2026Q1",
+   "value": 251166,
+   "rawValue": 251166,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 14,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 694585,
+   "rawValue": 694585,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 15,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 855936,
+   "rawValue": 855936,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 21,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "C02",
+   "period": "2026Q1",
+   "value": 819710,
+   "rawValue": 819710,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 21,
+    "col": 2
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "C03",
+   "period": "2026Q1",
+   "value": 936893,
+   "rawValue": 936893,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 21,
+    "col": 3
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "E01",
+   "period": "2026Q1",
+   "value": 492622,
+   "rawValue": 492622,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 21,
+    "col": 4
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "E02",
+   "period": "2026Q1",
+   "value": 963097,
+   "rawValue": 963097,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 21,
+    "col": 5
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "F01",
+   "period": "2026Q1",
+   "value": 150871,
+   "rawValue": 150871,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 21,
+    "col": 6
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "C01",
+   "period": "2026Q2",
+   "value": 533225,
+   "rawValue": 533225,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 22,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "C02",
+   "period": "2026Q2",
+   "value": 759137,
+   "rawValue": 759137,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 22,
+    "col": 2
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "C03",
+   "period": "2026Q2",
+   "value": 163559,
+   "rawValue": 163559,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 22,
+    "col": 3
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "E01",
+   "period": "2026Q2",
+   "value": 137795,
+   "rawValue": 137795,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 22,
+    "col": 4
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "E02",
+   "period": "2026Q2",
+   "value": 556552,
+   "rawValue": 556552,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 22,
+    "col": 5
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "F01",
+   "period": "2026Q2",
+   "value": 972120,
+   "rawValue": 972120,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 22,
+    "col": 6
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "C01",
+   "period": "2026Q3",
+   "value": 324421,
+   "rawValue": 324421,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 23,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "C02",
+   "period": "2026Q3",
+   "value": 715143,
+   "rawValue": 715143,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 23,
+    "col": 2
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "C03",
+   "period": "2026Q3",
+   "value": 208684,
+   "rawValue": 208684,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 23,
+    "col": 3
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "E01",
+   "period": "2026Q3",
+   "value": 146755,
+   "rawValue": 146755,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 23,
+    "col": 4
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "E02",
+   "period": "2026Q3",
+   "value": 539442,
+   "rawValue": 539442,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 23,
+    "col": 5
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "F01",
+   "period": "2026Q3",
+   "value": 887793,
+   "rawValue": 887793,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 23,
+    "col": 6
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "C01",
+   "period": "2026Q4",
+   "value": 158008,
+   "rawValue": 158008,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 24,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "C02",
+   "period": "2026Q4",
+   "value": 453728,
+   "rawValue": 453728,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 24,
+    "col": 2
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "C03",
+   "period": "2026Q4",
+   "value": 113245,
+   "rawValue": 113245,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 24,
+    "col": 3
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "E01",
+   "period": "2026Q4",
+   "value": 717218,
+   "rawValue": 717218,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 24,
+    "col": 4
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "E02",
+   "period": "2026Q4",
+   "value": 727570,
+   "rawValue": 727570,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 24,
+    "col": 5
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "F01",
+   "period": "2026Q4",
+   "value": 865172,
+   "rawValue": 865172,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 24,
+    "col": 6
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "multi-table-stacked",
+  "one-sheet",
+  "layout-vertical",
+  "tampered-total",
+  "multi-period"
+ ]
+}

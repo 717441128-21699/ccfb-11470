@@ -1,0 +1,765 @@
+{
+ "fileName": "159_永清县_经济报表.xlsx",
+ "county": "永清县",
+ "sheets": [
+  "经济指标表"
+ ],
+ "blocks": [
+  {
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "title": "永清县主要经济指标统计表",
+   "transposed": false,
+   "county": "永清县",
+   "period": null,
+   "tableUnit": null,
+   "excludedRows": [
+    9,
+    10,
+    14,
+    15,
+    18,
+    19,
+    21,
+    24
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "永清县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 70509,
+   "rawValue": 70509,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "A01",
+   "period": "2026Q2",
+   "value": 259804,
+   "rawValue": 259804,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 2
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "A01",
+   "period": "2026Q3",
+   "value": 314887,
+   "rawValue": 314887,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 3
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "A04",
+   "period": "2026Q1",
+   "value": 926187,
+   "rawValue": 926187,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 1
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "A04",
+   "period": "2026Q2",
+   "value": 676318,
+   "rawValue": 676318,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 2
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "A04",
+   "period": "2026Q3",
+   "value": 139160,
+   "rawValue": 139160,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 3
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "A05",
+   "period": "2026Q1",
+   "value": 497836,
+   "rawValue": 497836,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 1
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "A05",
+   "period": "2026Q2",
+   "value": 568027,
+   "rawValue": 568027,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 2
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "A05",
+   "period": "2026Q3",
+   "value": 718521,
+   "rawValue": 718521,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 3
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "A02",
+   "period": "2026Q1",
+   "value": 911816,
+   "rawValue": 911816,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 7,
+    "col": 1
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "A02",
+   "period": "2026Q2",
+   "value": 485858,
+   "rawValue": 485858,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 7,
+    "col": 2
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "A02",
+   "period": "2026Q3",
+   "value": 722921,
+   "rawValue": 722921,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 7,
+    "col": 3
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "A03",
+   "period": "2026Q1",
+   "value": 751233,
+   "rawValue": 751233,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 8,
+    "col": 1
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "A03",
+   "period": "2026Q2",
+   "value": 648949,
+   "rawValue": 648949,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 8,
+    "col": 2
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "A03",
+   "period": "2026Q3",
+   "value": 83919,
+   "rawValue": 83919,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 8,
+    "col": 3
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 3157581,
+   "rawValue": 3157581,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 9,
+    "col": 1
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "A01",
+   "period": "2026Q2",
+   "value": 2638956,
+   "rawValue": 2638956,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 9,
+    "col": 2
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "A01",
+   "period": "2026Q3",
+   "value": 1979408,
+   "rawValue": 1979408,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 9,
+    "col": 3
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "C02",
+   "period": "2026Q1",
+   "value": 865886,
+   "rawValue": 865886,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 11,
+    "col": 1
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "C02",
+   "period": "2026Q2",
+   "value": 443320,
+   "rawValue": 443320,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 11,
+    "col": 2
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "C02",
+   "period": "2026Q3",
+   "value": 894251,
+   "rawValue": 894251,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 11,
+    "col": 3
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "C03",
+   "period": "2026Q1",
+   "value": 780084,
+   "rawValue": 780084,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 12,
+    "col": 1
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "C03",
+   "period": "2026Q2",
+   "value": 946513,
+   "rawValue": 946513,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 12,
+    "col": 2
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "C03",
+   "period": "2026Q3",
+   "value": 199648,
+   "rawValue": 199648,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 12,
+    "col": 3
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 260605,
+   "rawValue": 260605,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 13,
+    "col": 1
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "C01",
+   "period": "2026Q2",
+   "value": 456744,
+   "rawValue": 456744,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 13,
+    "col": 2
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "C01",
+   "period": "2026Q3",
+   "value": 467388,
+   "rawValue": 467388,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 13,
+    "col": 3
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 1906575,
+   "rawValue": 1906575,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G3",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 15,
+    "col": 1
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "C01",
+   "period": "2026Q2",
+   "value": 1846577,
+   "rawValue": 1846577,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G3",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 15,
+    "col": 2
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "C01",
+   "period": "2026Q3",
+   "value": 1561287,
+   "rawValue": 1561287,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G3",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 15,
+    "col": 3
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 191945,
+   "rawValue": 191945,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 16,
+    "col": 1
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "D01",
+   "period": "2026Q2",
+   "value": 798617,
+   "rawValue": 798617,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 16,
+    "col": 2
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "D01",
+   "period": "2026Q3",
+   "value": 222347,
+   "rawValue": 222347,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 16,
+    "col": 3
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "D02",
+   "period": "2026Q1",
+   "value": 589884,
+   "rawValue": 589884,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 17,
+    "col": 1
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "D02",
+   "period": "2026Q2",
+   "value": 166689,
+   "rawValue": 166689,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 17,
+    "col": 2
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "D02",
+   "period": "2026Q3",
+   "value": 977314,
+   "rawValue": 977314,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 17,
+    "col": 3
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 781829,
+   "rawValue": 781829,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 19,
+    "col": 1
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "D01",
+   "period": "2026Q2",
+   "value": 965306,
+   "rawValue": 965306,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 19,
+    "col": 2
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "D01",
+   "period": "2026Q3",
+   "value": 1199661,
+   "rawValue": 1199661,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 19,
+    "col": 3
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "E02",
+   "period": "2026Q1",
+   "value": 454303,
+   "rawValue": 454303,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 20,
+    "col": 1
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "E02",
+   "period": "2026Q2",
+   "value": 467657,
+   "rawValue": 467657,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 20,
+    "col": 2
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "E02",
+   "period": "2026Q3",
+   "value": 866391,
+   "rawValue": 866391,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 20,
+    "col": 3
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "E01",
+   "period": "2026Q1",
+   "value": 243017,
+   "rawValue": 243017,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 22,
+    "col": 1
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "E01",
+   "period": "2026Q2",
+   "value": 303113,
+   "rawValue": 303113,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 22,
+    "col": 2
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "E01",
+   "period": "2026Q3",
+   "value": 474651,
+   "rawValue": 474651,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 22,
+    "col": 3
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "F01",
+   "period": "2026Q1",
+   "value": 158662,
+   "rawValue": 158662,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 23,
+    "col": 1
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "F01",
+   "period": "2026Q2",
+   "value": 444331,
+   "rawValue": 444331,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 23,
+    "col": 2
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "F01",
+   "period": "2026Q3",
+   "value": 777789,
+   "rawValue": 777789,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 23,
+    "col": 3
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "single-table",
+  "two-sheets",
+  "layout-vertical",
+  "multi-period"
+ ]
+}

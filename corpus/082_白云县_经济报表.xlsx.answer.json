@@ -1,0 +1,89 @@
+{
+ "fileName": "082_白云县_经济报表.xlsx",
+ "county": "白云县",
+ "sheets": [
+  "经济指标表"
+ ],
+ "blocks": [
+  {
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "title": "白云县2026年季度经济运行报表",
+   "transposed": false,
+   "county": "白云县",
+   "period": null,
+   "tableUnit": "吨标准煤",
+   "excludedRows": [
+    5
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "白云县",
+   "metricCode": "F01",
+   "period": "2026Q1",
+   "value": 600524,
+   "rawValue": 600524,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  },
+  {
+   "county": "白云县",
+   "metricCode": "F01",
+   "period": "2026Q2",
+   "value": 90196,
+   "rawValue": 90196,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 2
+   }
+  },
+  {
+   "county": "白云县",
+   "metricCode": "F01",
+   "period": "2026Q3",
+   "value": 876615,
+   "rawValue": 876615,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 3
+   }
+  },
+  {
+   "county": "白云县",
+   "metricCode": "F01",
+   "period": "2026Q4",
+   "value": 956227,
+   "rawValue": 956227,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 4
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "single-table",
+  "one-sheet",
+  "layout-vertical",
+  "multi-period"
+ ]
+}

@@ -1,0 +1,386 @@
+{
+ "fileName": "122_白云县_经济报表.xlsx",
+ "county": "白云县",
+ "sheets": [
+  "报表"
+ ],
+ "blocks": [
+  {
+   "sheet": "报表",
+   "blockIndex": 0,
+   "title": "白云县主要经济指标统计表",
+   "transposed": false,
+   "county": "白云县",
+   "period": null,
+   "tableUnit": null,
+   "excludedRows": [
+    3,
+    7
+   ]
+  },
+  {
+   "sheet": "报表",
+   "blockIndex": 1,
+   "title": "白云县经济社会发展指标表",
+   "transposed": true,
+   "county": "白云县",
+   "period": "2026Q1",
+   "tableUnit": "万元",
+   "excludedRows": []
+  },
+  {
+   "sheet": "报表",
+   "blockIndex": 2,
+   "title": "白云县经济社会发展指标表",
+   "transposed": false,
+   "county": "白云县",
+   "period": "2026Q1",
+   "tableUnit": null,
+   "excludedRows": [
+    20,
+    23
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "白云县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 595972,
+   "rawValue": 595972,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  },
+  {
+   "county": "白云县",
+   "metricCode": "C01",
+   "period": "2026Q2",
+   "value": 607841,
+   "rawValue": 607841,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 2
+   }
+  },
+  {
+   "county": "白云县",
+   "metricCode": "C02",
+   "period": "2026Q1",
+   "value": 532283,
+   "rawValue": 532283,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 1
+   }
+  },
+  {
+   "county": "白云县",
+   "metricCode": "C02",
+   "period": "2026Q2",
+   "value": 385127,
+   "rawValue": 385127,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 2
+   }
+  },
+  {
+   "county": "白云县",
+   "metricCode": "C03",
+   "period": "2026Q1",
+   "value": 611285,
+   "rawValue": 611285,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 1
+   }
+  },
+  {
+   "county": "白云县",
+   "metricCode": "C03",
+   "period": "2026Q2",
+   "value": 89409,
+   "rawValue": 89409,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 2
+   }
+  },
+  {
+   "county": "白云县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 1739540,
+   "rawValue": 1739540,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G3",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 7,
+    "col": 1
+   }
+  },
+  {
+   "county": "白云县",
+   "metricCode": "C01",
+   "period": "2026Q2",
+   "value": 1082377,
+   "rawValue": 1082377,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G3",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 7,
+    "col": 2
+   }
+  },
+  {
+   "county": "白云县",
+   "metricCode": "F01",
+   "period": "2026Q1",
+   "value": 331887,
+   "rawValue": 331887,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 8,
+    "col": 1
+   }
+  },
+  {
+   "county": "白云县",
+   "metricCode": "F01",
+   "period": "2026Q2",
+   "value": 862577,
+   "rawValue": 862577,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 8,
+    "col": 2
+   }
+  },
+  {
+   "county": "白云县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 477842,
+   "rawValue": 477842,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 15,
+    "col": 1
+   }
+  },
+  {
+   "county": "白云县",
+   "metricCode": "A02",
+   "period": "2026Q1",
+   "value": 537060,
+   "rawValue": 537060,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 15,
+    "col": 2
+   }
+  },
+  {
+   "county": "白云县",
+   "metricCode": "A03",
+   "period": "2026Q1",
+   "value": 317559,
+   "rawValue": 317559,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 15,
+    "col": 3
+   }
+  },
+  {
+   "county": "白云县",
+   "metricCode": "A04",
+   "period": "2026Q1",
+   "value": 265448,
+   "rawValue": 265448,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 15,
+    "col": 4
+   }
+  },
+  {
+   "county": "白云县",
+   "metricCode": "A05",
+   "period": "2026Q1",
+   "value": 492413,
+   "rawValue": 492413,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 15,
+    "col": 5
+   }
+  },
+  {
+   "county": "白云县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 950002,
+   "rawValue": 950002,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 15,
+    "col": 6
+   }
+  },
+  {
+   "county": "白云县",
+   "metricCode": "D02",
+   "period": "2026Q1",
+   "value": 449661,
+   "rawValue": 449661,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 15,
+    "col": 7
+   }
+  },
+  {
+   "county": "白云县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 961812,
+   "rawValue": 961812,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 2,
+   "cell": {
+    "row": 21,
+    "col": 1
+   }
+  },
+  {
+   "county": "白云县",
+   "metricCode": "B02",
+   "period": "2026Q1",
+   "value": 286536,
+   "rawValue": 286536,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 2,
+   "cell": {
+    "row": 22,
+    "col": 1
+   }
+  },
+  {
+   "county": "白云县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 1248348,
+   "rawValue": 1248348,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G2",
+   "sheet": "报表",
+   "blockIndex": 2,
+   "cell": {
+    "row": 23,
+    "col": 1
+   }
+  },
+  {
+   "county": "白云县",
+   "metricCode": "E01",
+   "period": "2026Q1",
+   "value": 462518,
+   "rawValue": 462518,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 2,
+   "cell": {
+    "row": 24,
+    "col": 1
+   }
+  },
+  {
+   "county": "白云县",
+   "metricCode": "E02",
+   "period": "2026Q1",
+   "value": 881337,
+   "rawValue": 881337,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 2,
+   "cell": {
+    "row": 25,
+    "col": 1
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "multi-table-stacked",
+  "one-sheet",
+  "layout-vertical",
+  "multi-period"
+ ]
+}

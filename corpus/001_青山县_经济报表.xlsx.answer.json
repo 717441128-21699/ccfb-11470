@@ -1,0 +1,58 @@
+{
+ "fileName": "001_青山县_经济报表.xlsx",
+ "county": "青山县",
+ "sheets": [
+  "报表"
+ ],
+ "blocks": [
+  {
+   "sheet": "报表",
+   "blockIndex": 0,
+   "title": "青山县统计季报",
+   "transposed": false,
+   "county": "青山县",
+   "period": "2026Q1",
+   "tableUnit": "元",
+   "excludedRows": [
+    6
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "青山县",
+   "metricCode": "E01",
+   "period": "2026Q1",
+   "value": 811792,
+   "rawValue": 811792,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "E02",
+   "period": "2026Q1",
+   "value": 854445,
+   "rawValue": 854445,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 1
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "single-table",
+  "one-sheet",
+  "layout-vertical"
+ ]
+}

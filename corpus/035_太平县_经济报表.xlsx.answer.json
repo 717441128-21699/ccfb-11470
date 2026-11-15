@@ -1,0 +1,181 @@
+{
+ "fileName": "035_太平县_经济报表.xlsx",
+ "county": "太平县",
+ "sheets": [
+  "经济指标表"
+ ],
+ "blocks": [
+  {
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "title": "太平县2026年季度经济运行报表",
+   "transposed": false,
+   "county": "太平县",
+   "period": "2026Q1",
+   "tableUnit": null,
+   "excludedRows": [
+    5,
+    9
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "太平县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 261010,
+   "rawValue": 261010,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 1
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "B02",
+   "period": "2026Q1",
+   "value": 822334,
+   "rawValue": 822334,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 1083344,
+   "rawValue": 1083344,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G2",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 1
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 3121,
+   "rawValue": 3121,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 1
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "C02",
+   "period": "2026Q1",
+   "value": 920238,
+   "rawValue": 920238,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 7,
+    "col": 1
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "C03",
+   "period": "2026Q1",
+   "value": 683580,
+   "rawValue": 683580,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 8,
+    "col": 1
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 1606939,
+   "rawValue": 1606939,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G3",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 9,
+    "col": 1
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "E01",
+   "period": "2026Q1",
+   "value": 806775,
+   "rawValue": 806775,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 10,
+    "col": 1
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "E02",
+   "period": "2026Q1",
+   "value": 150302,
+   "rawValue": 150302,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 11,
+    "col": 1
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "F01",
+   "period": "2026Q1",
+   "value": 465898,
+   "rawValue": 465898,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 12,
+    "col": 1
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "single-table",
+  "one-sheet",
+  "layout-vertical"
+ ]
+}

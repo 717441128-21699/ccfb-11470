@@ -1,0 +1,512 @@
+{
+ "fileName": "198_吉安县_经济报表.xlsx",
+ "county": "吉安县",
+ "sheets": [
+  "经济指标表"
+ ],
+ "blocks": [
+  {
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "title": "吉安县2026年季度经济运行报表",
+   "transposed": false,
+   "county": "吉安县",
+   "period": "2026Q1",
+   "tableUnit": null,
+   "excludedRows": [
+    3,
+    9,
+    10,
+    13,
+    15
+   ]
+  },
+  {
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "title": "吉安县主要经济指标统计表",
+   "transposed": true,
+   "county": "吉安县",
+   "period": null,
+   "tableUnit": null,
+   "excludedRows": [
+    7
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "吉安县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 83297,
+   "rawValue": 83297,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  },
+  {
+   "county": "吉安县",
+   "metricCode": "A02",
+   "period": "2026Q1",
+   "value": 817310,
+   "rawValue": 817310,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 1
+   }
+  },
+  {
+   "county": "吉安县",
+   "metricCode": "A03",
+   "period": "2026Q1",
+   "value": 773603,
+   "rawValue": 773603,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 1
+   }
+  },
+  {
+   "county": "吉安县",
+   "metricCode": "A04",
+   "period": "2026Q1",
+   "value": 389826,
+   "rawValue": 389826,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 7,
+    "col": 1
+   }
+  },
+  {
+   "county": "吉安县",
+   "metricCode": "A05",
+   "period": "2026Q1",
+   "value": 897659,
+   "rawValue": 897659,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 8,
+    "col": 1
+   }
+  },
+  {
+   "county": "吉安县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 2961695,
+   "rawValue": 2961695,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 9,
+    "col": 1
+   }
+  },
+  {
+   "county": "吉安县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 123888,
+   "rawValue": 123888,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 11,
+    "col": 1
+   }
+  },
+  {
+   "county": "吉安县",
+   "metricCode": "D02",
+   "period": "2026Q1",
+   "value": 181211,
+   "rawValue": 181211,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 12,
+    "col": 1
+   }
+  },
+  {
+   "county": "吉安县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 305099,
+   "rawValue": 305099,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 13,
+    "col": 1
+   }
+  },
+  {
+   "county": "吉安县",
+   "metricCode": "F01",
+   "period": "2026Q1",
+   "value": 535704,
+   "rawValue": 535704,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 14,
+    "col": 1
+   }
+  },
+  {
+   "county": "吉安县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 951691,
+   "rawValue": 951691,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 4,
+    "col": 6
+   }
+  },
+  {
+   "county": "吉安县",
+   "metricCode": "B02",
+   "period": "2026Q1",
+   "value": 214863,
+   "rawValue": 214863,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 4,
+    "col": 7
+   }
+  },
+  {
+   "county": "吉安县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 211436,
+   "rawValue": 211436,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 4,
+    "col": 8
+   }
+  },
+  {
+   "county": "吉安县",
+   "metricCode": "C02",
+   "period": "2026Q1",
+   "value": 671562,
+   "rawValue": 671562,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 4,
+    "col": 9
+   }
+  },
+  {
+   "county": "吉安县",
+   "metricCode": "C03",
+   "period": "2026Q1",
+   "value": 815759,
+   "rawValue": 815759,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 4,
+    "col": 10
+   }
+  },
+  {
+   "county": "吉安县",
+   "metricCode": "E01",
+   "period": "2026Q1",
+   "value": 377399,
+   "rawValue": 377399,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 4,
+    "col": 11
+   }
+  },
+  {
+   "county": "吉安县",
+   "metricCode": "E02",
+   "period": "2026Q1",
+   "value": 907733,
+   "rawValue": 907733,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 4,
+    "col": 12
+   }
+  },
+  {
+   "county": "吉安县",
+   "metricCode": "B01",
+   "period": "2026Q2",
+   "value": 570688,
+   "rawValue": 570688,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 5,
+    "col": 6
+   }
+  },
+  {
+   "county": "吉安县",
+   "metricCode": "B02",
+   "period": "2026Q2",
+   "value": 293913,
+   "rawValue": 293913,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 5,
+    "col": 7
+   }
+  },
+  {
+   "county": "吉安县",
+   "metricCode": "C01",
+   "period": "2026Q2",
+   "value": 449619,
+   "rawValue": 449619,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 5,
+    "col": 8
+   }
+  },
+  {
+   "county": "吉安县",
+   "metricCode": "C02",
+   "period": "2026Q2",
+   "value": 318110,
+   "rawValue": 318110,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 5,
+    "col": 9
+   }
+  },
+  {
+   "county": "吉安县",
+   "metricCode": "C03",
+   "period": "2026Q2",
+   "value": 315976,
+   "rawValue": 315976,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 5,
+    "col": 10
+   }
+  },
+  {
+   "county": "吉安县",
+   "metricCode": "E01",
+   "period": "2026Q2",
+   "value": 521303,
+   "rawValue": 521303,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 5,
+    "col": 11
+   }
+  },
+  {
+   "county": "吉安县",
+   "metricCode": "E02",
+   "period": "2026Q2",
+   "value": 954471,
+   "rawValue": 954471,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 5,
+    "col": 12
+   }
+  },
+  {
+   "county": "吉安县",
+   "metricCode": "B01",
+   "period": "2026Q3",
+   "value": 543752,
+   "rawValue": 543752,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 6,
+    "col": 6
+   }
+  },
+  {
+   "county": "吉安县",
+   "metricCode": "B02",
+   "period": "2026Q3",
+   "value": 563360,
+   "rawValue": 563360,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 6,
+    "col": 7
+   }
+  },
+  {
+   "county": "吉安县",
+   "metricCode": "C01",
+   "period": "2026Q3",
+   "value": 919743,
+   "rawValue": 919743,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 6,
+    "col": 8
+   }
+  },
+  {
+   "county": "吉安县",
+   "metricCode": "C02",
+   "period": "2026Q3",
+   "value": 364558,
+   "rawValue": 364558,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 6,
+    "col": 9
+   }
+  },
+  {
+   "county": "吉安县",
+   "metricCode": "C03",
+   "period": "2026Q3",
+   "value": 40514,
+   "rawValue": 40514,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 6,
+    "col": 10
+   }
+  },
+  {
+   "county": "吉安县",
+   "metricCode": "E01",
+   "period": "2026Q3",
+   "value": 710450,
+   "rawValue": 710450,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 6,
+    "col": 11
+   }
+  },
+  {
+   "county": "吉安县",
+   "metricCode": "E02",
+   "period": "2026Q3",
+   "value": 729662,
+   "rawValue": 729662,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 6,
+    "col": 12
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "multi-table-side-by-side",
+  "one-sheet",
+  "layout-vertical",
+  "multi-period"
+ ]
+}

@@ -1,0 +1,774 @@
+{
+ "fileName": "081_青山县_经济报表.xlsx",
+ "county": "青山县",
+ "sheets": [
+  "报表"
+ ],
+ "blocks": [
+  {
+   "sheet": "报表",
+   "blockIndex": 0,
+   "title": "青山县主要经济指标统计表",
+   "transposed": false,
+   "county": "青山县",
+   "period": null,
+   "tableUnit": null,
+   "excludedRows": [
+    4,
+    7,
+    9,
+    11,
+    12,
+    15,
+    16,
+    17,
+    20,
+    21,
+    22,
+    25,
+    26,
+    29
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "青山县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 232486,
+   "rawValue": 232486,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 1
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "A01",
+   "period": "2026Q2",
+   "value": 164406,
+   "rawValue": 164406,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 2
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "A01",
+   "period": "2026Q3",
+   "value": 25864,
+   "rawValue": 25864,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 3
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "A03",
+   "period": "2026Q1",
+   "value": 270475,
+   "rawValue": 270475,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 1
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "A03",
+   "period": "2026Q2",
+   "value": 86350,
+   "rawValue": 86350,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 2
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "A03",
+   "period": "2026Q3",
+   "value": 514176,
+   "rawValue": 514176,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 3
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "A05",
+   "period": "2026Q1",
+   "value": 76248,
+   "rawValue": 76248,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 8,
+    "col": 1
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "A05",
+   "period": "2026Q2",
+   "value": 865648,
+   "rawValue": 865648,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 8,
+    "col": 2
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "A05",
+   "period": "2026Q3",
+   "value": 819913,
+   "rawValue": 819913,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 8,
+    "col": 3
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "A02",
+   "period": "2026Q1",
+   "value": null,
+   "rawValue": null,
+   "sourceUnit": null,
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 10,
+    "col": 1
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "A02",
+   "period": "2026Q2",
+   "value": 667861,
+   "rawValue": 667861,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 10,
+    "col": 2
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "A02",
+   "period": "2026Q3",
+   "value": 681855,
+   "rawValue": 681855,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 10,
+    "col": 3
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 579209,
+   "rawValue": 579209,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 11,
+    "col": 1
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "A01",
+   "period": "2026Q2",
+   "value": 1784265,
+   "rawValue": 1784265,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 11,
+    "col": 2
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "A01",
+   "period": "2026Q3",
+   "value": 2041808,
+   "rawValue": 2041808,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 11,
+    "col": 3
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "B02",
+   "period": "2026Q1",
+   "value": 83542,
+   "rawValue": 83542,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 13,
+    "col": 1
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "B02",
+   "period": "2026Q2",
+   "value": 125331,
+   "rawValue": 125331,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 13,
+    "col": 2
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "B02",
+   "period": "2026Q3",
+   "value": null,
+   "rawValue": null,
+   "sourceUnit": null,
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 13,
+    "col": 3
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 356203,
+   "rawValue": 356203,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 14,
+    "col": 1
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "B01",
+   "period": "2026Q2",
+   "value": 616233,
+   "rawValue": 616233,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 14,
+    "col": 2
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "B01",
+   "period": "2026Q3",
+   "value": 762564,
+   "rawValue": 762564,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 14,
+    "col": 3
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 439745,
+   "rawValue": 439745,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G2",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 15,
+    "col": 1
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "B01",
+   "period": "2026Q2",
+   "value": 741564,
+   "rawValue": 741564,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G2",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 15,
+    "col": 2
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "B01",
+   "period": "2026Q3",
+   "value": 762564,
+   "rawValue": 762564,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G2",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 15,
+    "col": 3
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "C02",
+   "period": "2026Q1",
+   "value": 556204,
+   "rawValue": 556204,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 18,
+    "col": 1
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "C02",
+   "period": "2026Q2",
+   "value": 910244,
+   "rawValue": 910244,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 18,
+    "col": 2
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "C02",
+   "period": "2026Q3",
+   "value": 770374,
+   "rawValue": 770374,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 18,
+    "col": 3
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 441092,
+   "rawValue": 441092,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 19,
+    "col": 1
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "C01",
+   "period": "2026Q2",
+   "value": 349640,
+   "rawValue": 349640,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 19,
+    "col": 2
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "C01",
+   "period": "2026Q3",
+   "value": 840362,
+   "rawValue": 840362,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 19,
+    "col": 3
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 997296,
+   "rawValue": 997296,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G3",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 21,
+    "col": 1
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "C01",
+   "period": "2026Q2",
+   "value": 1259884,
+   "rawValue": 1259884,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G3",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 21,
+    "col": 2
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "C01",
+   "period": "2026Q3",
+   "value": 1610736,
+   "rawValue": 1610736,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G3",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 21,
+    "col": 3
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "D02",
+   "period": "2026Q1",
+   "value": 242973,
+   "rawValue": 242973,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 23,
+    "col": 1
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "D02",
+   "period": "2026Q2",
+   "value": 406216,
+   "rawValue": 406216,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 23,
+    "col": 2
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "D02",
+   "period": "2026Q3",
+   "value": 118574,
+   "rawValue": 118574,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 23,
+    "col": 3
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 342651,
+   "rawValue": 342651,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 24,
+    "col": 1
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "D01",
+   "period": "2026Q2",
+   "value": 842025,
+   "rawValue": 842025,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 24,
+    "col": 2
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "D01",
+   "period": "2026Q3",
+   "value": 131979,
+   "rawValue": 131979,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 24,
+    "col": 3
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 585624,
+   "rawValue": 585624,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 25,
+    "col": 1
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "D01",
+   "period": "2026Q2",
+   "value": 1248241,
+   "rawValue": 1248241,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 25,
+    "col": 2
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "D01",
+   "period": "2026Q3",
+   "value": 250553,
+   "rawValue": 250553,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 25,
+    "col": 3
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "E01",
+   "period": "2026Q1",
+   "value": 970899,
+   "rawValue": 970899,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 27,
+    "col": 1
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "E01",
+   "period": "2026Q2",
+   "value": 32183,
+   "rawValue": 32183,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 27,
+    "col": 2
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "E01",
+   "period": "2026Q3",
+   "value": 860315,
+   "rawValue": 860315,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 27,
+    "col": 3
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "E02",
+   "period": "2026Q1",
+   "value": 727190,
+   "rawValue": 727190,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 28,
+    "col": 1
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "E02",
+   "period": "2026Q2",
+   "value": 476148,
+   "rawValue": 476148,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 28,
+    "col": 2
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "E02",
+   "period": "2026Q3",
+   "value": 330635,
+   "rawValue": 330635,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 28,
+    "col": 3
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "single-table",
+  "one-sheet",
+  "layout-vertical",
+  "multi-period"
+ ]
+}

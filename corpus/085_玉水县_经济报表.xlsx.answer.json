@@ -1,0 +1,287 @@
+{
+ "fileName": "085_玉水县_经济报表.xlsx",
+ "county": "玉水县",
+ "sheets": [
+  "经济指标表"
+ ],
+ "blocks": [
+  {
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "title": "玉水县2026年季度经济运行报表",
+   "transposed": true,
+   "county": "玉水县",
+   "period": null,
+   "tableUnit": "亿元",
+   "excludedRows": []
+  },
+  {
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "title": "玉水县经济社会发展指标表",
+   "transposed": false,
+   "county": "玉水县",
+   "period": "2026Q1",
+   "tableUnit": "亿元",
+   "excludedRows": [
+    7,
+    8,
+    10,
+    11,
+    12
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "玉水县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 362823000000000000,
+   "rawValue": 36282300000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "C02",
+   "period": "2026Q1",
+   "value": 697887000000000000,
+   "rawValue": 69788700000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 2
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "C03",
+   "period": "2026Q1",
+   "value": 400474000000000000,
+   "rawValue": 40047400000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 3
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "B01",
+   "period": "2026Q2",
+   "value": 907844000000000000,
+   "rawValue": 90784400000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 1
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "C02",
+   "period": "2026Q2",
+   "value": 490472000000000000,
+   "rawValue": 49047200000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 2
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "C03",
+   "period": "2026Q2",
+   "value": 267652000000000000,
+   "rawValue": 26765200000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 3
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "B01",
+   "period": "2026Q3",
+   "value": 550788000000000000,
+   "rawValue": 55078800000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 1
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "C02",
+   "period": "2026Q3",
+   "value": 428301000000000000,
+   "rawValue": 42830100000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 2
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "C03",
+   "period": "2026Q3",
+   "value": 50004000000000000,
+   "rawValue": 5000400000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 3
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "A02",
+   "period": "2026Q1",
+   "value": 759202000000000000,
+   "rawValue": 75920200000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 4,
+    "col": 7
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "A03",
+   "period": "2026Q1",
+   "value": 165370000000000000,
+   "rawValue": 16537000000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 5,
+    "col": 7
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "A05",
+   "period": "2026Q1",
+   "value": 474539000000000000,
+   "rawValue": 47453900000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 6,
+    "col": 7
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 1399111000000000000,
+   "rawValue": 139911100000000,
+   "sourceUnit": "亿元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 8,
+    "col": 7
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "D02",
+   "period": "2026Q1",
+   "value": 255165000000000000,
+   "rawValue": 25516500000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 9,
+    "col": 7
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 255165000000000000,
+   "rawValue": 25516500000000,
+   "sourceUnit": "亿元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 11,
+    "col": 7
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "A02",
+   "period": "2026Q1",
+   "value": 1654276000000000000,
+   "rawValue": 165427600000000,
+   "sourceUnit": "亿元",
+   "rowKind": "grandtotal",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 12,
+    "col": 7
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "multi-table-side-by-side",
+  "one-sheet",
+  "layout-transposed",
+  "multi-period",
+  "unit-亿元",
+  "unit-亿元"
+ ]
+}

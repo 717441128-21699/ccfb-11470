@@ -1,0 +1,687 @@
+{
+ "fileName": "027_白鹿县_经济报表.xlsx",
+ "county": "白鹿县",
+ "sheets": [
+  "Sheet1"
+ ],
+ "blocks": [
+  {
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "title": "白鹿县统计季报",
+   "transposed": true,
+   "county": "白鹿县",
+   "period": null,
+   "tableUnit": null,
+   "excludedRows": []
+  }
+ ],
+ "records": [
+  {
+   "county": "白鹿县",
+   "metricCode": "B02",
+   "period": "2026Q1",
+   "value": 463572,
+   "rawValue": 463572,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 1
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "C03",
+   "period": "2026Q1",
+   "value": 629527,
+   "rawValue": 629527,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 2
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "E01",
+   "period": "2026Q1",
+   "value": 157414,
+   "rawValue": 157414,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 3
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "A05",
+   "period": "2026Q1",
+   "value": 274816,
+   "rawValue": 274816,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 4
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "A03",
+   "period": "2026Q1",
+   "value": 741096,
+   "rawValue": 741096,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 5
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "C02",
+   "period": "2026Q1",
+   "value": 771814,
+   "rawValue": 771814,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 6
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "A02",
+   "period": "2026Q1",
+   "value": null,
+   "rawValue": null,
+   "sourceUnit": null,
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 7
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "D02",
+   "period": "2026Q1",
+   "value": 587084,
+   "rawValue": 587084,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 8
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 476623,
+   "rawValue": 476623,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 9
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "E02",
+   "period": "2026Q1",
+   "value": 190104,
+   "rawValue": 190104,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 10
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "A04",
+   "period": "2026Q1",
+   "value": 356943,
+   "rawValue": 356943,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 11
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "B02",
+   "period": "2026Q2",
+   "value": 514212,
+   "rawValue": 514212,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "C03",
+   "period": "2026Q2",
+   "value": 290822,
+   "rawValue": 290822,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 2
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "E01",
+   "period": "2026Q2",
+   "value": 184636,
+   "rawValue": 184636,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 3
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "A05",
+   "period": "2026Q2",
+   "value": 191312,
+   "rawValue": 191312,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 4
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "A03",
+   "period": "2026Q2",
+   "value": 8975,
+   "rawValue": 8975,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 5
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "C02",
+   "period": "2026Q2",
+   "value": 916592,
+   "rawValue": 916592,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 6
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "A02",
+   "period": "2026Q2",
+   "value": 515933,
+   "rawValue": 515933,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 7
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "D02",
+   "period": "2026Q2",
+   "value": 856632,
+   "rawValue": 856632,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 8
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "A01",
+   "period": "2026Q2",
+   "value": 957263,
+   "rawValue": 957263,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 9
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "E02",
+   "period": "2026Q2",
+   "value": 547124,
+   "rawValue": 547124,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 10
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "A04",
+   "period": "2026Q2",
+   "value": 82392,
+   "rawValue": 82392,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 11
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "B02",
+   "period": "2026Q3",
+   "value": 726888,
+   "rawValue": 726888,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 1
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "C03",
+   "period": "2026Q3",
+   "value": 260243,
+   "rawValue": 260243,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 2
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "E01",
+   "period": "2026Q3",
+   "value": null,
+   "rawValue": null,
+   "sourceUnit": null,
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 3
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "A05",
+   "period": "2026Q3",
+   "value": 840336,
+   "rawValue": 840336,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 4
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "A03",
+   "period": "2026Q3",
+   "value": 205046,
+   "rawValue": 205046,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 5
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "C02",
+   "period": "2026Q3",
+   "value": 647804,
+   "rawValue": 647804,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 6
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "A02",
+   "period": "2026Q3",
+   "value": 923457,
+   "rawValue": 923457,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 7
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "D02",
+   "period": "2026Q3",
+   "value": 272204,
+   "rawValue": 272204,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 8
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "A01",
+   "period": "2026Q3",
+   "value": 420569,
+   "rawValue": 420569,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 9
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "E02",
+   "period": "2026Q3",
+   "value": 669489,
+   "rawValue": 669489,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 10
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "A04",
+   "period": "2026Q3",
+   "value": 773105,
+   "rawValue": 773105,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 11
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "B02",
+   "period": "2026Q4",
+   "value": 246138,
+   "rawValue": 246138,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 1
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "C03",
+   "period": "2026Q4",
+   "value": 844142,
+   "rawValue": 844142,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 2
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "E01",
+   "period": "2026Q4",
+   "value": 87495,
+   "rawValue": 87495,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 3
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "A05",
+   "period": "2026Q4",
+   "value": 736097,
+   "rawValue": 736097,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 4
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "A03",
+   "period": "2026Q4",
+   "value": 193311,
+   "rawValue": 193311,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 5
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "C02",
+   "period": "2026Q4",
+   "value": 294580,
+   "rawValue": 294580,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 6
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "A02",
+   "period": "2026Q4",
+   "value": 916436,
+   "rawValue": 916436,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 7
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "D02",
+   "period": "2026Q4",
+   "value": 467593,
+   "rawValue": 467593,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 8
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "A01",
+   "period": "2026Q4",
+   "value": 608296,
+   "rawValue": 608296,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 9
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "E02",
+   "period": "2026Q4",
+   "value": 863252,
+   "rawValue": 863252,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 10
+   }
+  },
+  {
+   "county": "白鹿县",
+   "metricCode": "A04",
+   "period": "2026Q4",
+   "value": 279844,
+   "rawValue": 279844,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 11
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "single-table",
+  "one-sheet",
+  "layout-transposed",
+  "multi-period"
+ ]
+}

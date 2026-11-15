@@ -1,0 +1,584 @@
+{
+ "fileName": "017_福海县_经济报表.xlsx",
+ "county": "福海县",
+ "sheets": [
+  "数据"
+ ],
+ "blocks": [
+  {
+   "sheet": "数据",
+   "blockIndex": 0,
+   "title": "福海县2026年第一季度经济指标表",
+   "transposed": false,
+   "county": "福海县",
+   "period": "2026Q1",
+   "tableUnit": null,
+   "excludedRows": [
+    7,
+    9,
+    12,
+    13,
+    15,
+    17
+   ]
+  },
+  {
+   "sheet": "数据",
+   "blockIndex": 1,
+   "title": "福海县主要经济指标统计表",
+   "transposed": false,
+   "county": "福海县",
+   "period": null,
+   "tableUnit": null,
+   "excludedRows": [
+    23,
+    25,
+    26,
+    29,
+    31,
+    33
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "福海县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 764275,
+   "rawValue": 764275,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 1
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "A02",
+   "period": "2026Q1",
+   "value": 781557,
+   "rawValue": 781557,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "A03",
+   "period": "2026Q1",
+   "value": 976377,
+   "rawValue": 976377,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 1
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "A04",
+   "period": "2026Q1",
+   "value": 519317,
+   "rawValue": 519317,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 1
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "A05",
+   "period": "2026Q1",
+   "value": 468454,
+   "rawValue": 468454,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 8,
+    "col": 1
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 3509980,
+   "rawValue": 3509980,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 9,
+    "col": 1
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 940397,
+   "rawValue": 940397,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 10,
+    "col": 1
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "D02",
+   "period": "2026Q1",
+   "value": 919272,
+   "rawValue": 919272,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 11,
+    "col": 1
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 1859669,
+   "rawValue": 1859669,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 12,
+    "col": 1
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "E01",
+   "period": "2026Q1",
+   "value": 474701,
+   "rawValue": 474701,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 14,
+    "col": 1
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "E02",
+   "period": "2026Q1",
+   "value": 161812,
+   "rawValue": 161812,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 16,
+    "col": 1
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 975438,
+   "rawValue": 975438,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 22,
+    "col": 1
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "B01",
+   "period": "2026Q2",
+   "value": null,
+   "rawValue": null,
+   "sourceUnit": null,
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 22,
+    "col": 2
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "B01",
+   "period": "2026Q3",
+   "value": null,
+   "rawValue": null,
+   "sourceUnit": null,
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 22,
+    "col": 3
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "B02",
+   "period": "2026Q1",
+   "value": 931990,
+   "rawValue": 931990,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 24,
+    "col": 1
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "B02",
+   "period": "2026Q2",
+   "value": 729105,
+   "rawValue": 729105,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 24,
+    "col": 2
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "B02",
+   "period": "2026Q3",
+   "value": 819806,
+   "rawValue": 819806,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 24,
+    "col": 3
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 1907428,
+   "rawValue": 1907428,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G2",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 26,
+    "col": 1
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "B01",
+   "period": "2026Q2",
+   "value": 729105,
+   "rawValue": 729105,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G2",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 26,
+    "col": 2
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "B01",
+   "period": "2026Q3",
+   "value": 819806,
+   "rawValue": 819806,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G2",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 26,
+    "col": 3
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 67656,
+   "rawValue": 67656,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 27,
+    "col": 1
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "C01",
+   "period": "2026Q2",
+   "value": 419057,
+   "rawValue": 419057,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 27,
+    "col": 2
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "C01",
+   "period": "2026Q3",
+   "value": 662417,
+   "rawValue": 662417,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 27,
+    "col": 3
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "C02",
+   "period": "2026Q1",
+   "value": 606203,
+   "rawValue": 606203,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 28,
+    "col": 1
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "C02",
+   "period": "2026Q2",
+   "value": 295327,
+   "rawValue": 295327,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 28,
+    "col": 2
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "C02",
+   "period": "2026Q3",
+   "value": 950515,
+   "rawValue": 950515,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 28,
+    "col": 3
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "C03",
+   "period": "2026Q1",
+   "value": 199561,
+   "rawValue": 199561,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 30,
+    "col": 1
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "C03",
+   "period": "2026Q2",
+   "value": 369882,
+   "rawValue": 369882,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 30,
+    "col": 2
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "C03",
+   "period": "2026Q3",
+   "value": 852204,
+   "rawValue": 852204,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 30,
+    "col": 3
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 873420,
+   "rawValue": 873420,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G3",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 31,
+    "col": 1
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "C01",
+   "period": "2026Q2",
+   "value": 1084266,
+   "rawValue": 1084266,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G3",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 31,
+    "col": 2
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "C01",
+   "period": "2026Q3",
+   "value": 2465136,
+   "rawValue": 2465136,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G3",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 31,
+    "col": 3
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "F01",
+   "period": "2026Q1",
+   "value": 457909,
+   "rawValue": 457909,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 32,
+    "col": 1
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "F01",
+   "period": "2026Q2",
+   "value": 130970,
+   "rawValue": 130970,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 32,
+    "col": 2
+   }
+  },
+  {
+   "county": "福海县",
+   "metricCode": "F01",
+   "period": "2026Q3",
+   "value": 523480,
+   "rawValue": 523480,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 32,
+    "col": 3
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "multi-table-stacked",
+  "one-sheet",
+  "layout-vertical",
+  "multi-period"
+ ]
+}

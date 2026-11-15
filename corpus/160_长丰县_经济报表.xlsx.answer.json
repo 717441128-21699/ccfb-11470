@@ -1,0 +1,241 @@
+{
+ "fileName": "160_长丰县_经济报表.xlsx",
+ "county": "长丰县",
+ "sheets": [
+  "经济指标表"
+ ],
+ "blocks": [
+  {
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "title": "长丰县主要经济指标统计表",
+   "transposed": true,
+   "county": "长丰县",
+   "period": null,
+   "tableUnit": "元",
+   "excludedRows": [
+    7
+   ]
+  },
+  {
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "title": "长丰县统计季报",
+   "transposed": false,
+   "county": "长丰县",
+   "period": "2026Q1",
+   "tableUnit": "万元",
+   "excludedRows": [
+    6,
+    8,
+    9,
+    10
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "长丰县",
+   "metricCode": "E02",
+   "period": "2026Q1",
+   "value": 648639,
+   "rawValue": 648639,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  },
+  {
+   "county": "长丰县",
+   "metricCode": "E01",
+   "period": "2026Q1",
+   "value": 403641,
+   "rawValue": 403641,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 2
+   }
+  },
+  {
+   "county": "长丰县",
+   "metricCode": "E02",
+   "period": "2026Q2",
+   "value": 730224,
+   "rawValue": 730224,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 1
+   }
+  },
+  {
+   "county": "长丰县",
+   "metricCode": "E01",
+   "period": "2026Q2",
+   "value": 909679,
+   "rawValue": 909679,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 2
+   }
+  },
+  {
+   "county": "长丰县",
+   "metricCode": "E02",
+   "period": "2026Q3",
+   "value": null,
+   "rawValue": null,
+   "sourceUnit": null,
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 1
+   }
+  },
+  {
+   "county": "长丰县",
+   "metricCode": "E01",
+   "period": "2026Q3",
+   "value": 618397,
+   "rawValue": 618397,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 2
+   }
+  },
+  {
+   "county": "长丰县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 147068,
+   "rawValue": 147068,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 3,
+    "col": 6
+   }
+  },
+  {
+   "county": "长丰县",
+   "metricCode": "A04",
+   "period": "2026Q1",
+   "value": 309549,
+   "rawValue": 309549,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 4,
+    "col": 6
+   }
+  },
+  {
+   "county": "长丰县",
+   "metricCode": "A03",
+   "period": "2026Q1",
+   "value": null,
+   "rawValue": null,
+   "sourceUnit": null,
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 5,
+    "col": 6
+   }
+  },
+  {
+   "county": "长丰县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 456617,
+   "rawValue": 456617,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 6,
+    "col": 6
+   }
+  },
+  {
+   "county": "长丰县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 603130,
+   "rawValue": 603130,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 7,
+    "col": 6
+   }
+  },
+  {
+   "county": "长丰县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 603130,
+   "rawValue": 603130,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 8,
+    "col": 6
+   }
+  },
+  {
+   "county": "长丰县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 1059747,
+   "rawValue": 1059747,
+   "sourceUnit": "万元",
+   "rowKind": "grandtotal",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 9,
+    "col": 6
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "multi-table-side-by-side",
+  "one-sheet",
+  "layout-transposed",
+  "multi-period"
+ ]
+}

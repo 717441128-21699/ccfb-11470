@@ -1,0 +1,45 @@
+{
+ "fileName": "103_龙泉县_经济报表.xlsx",
+ "county": "龙泉县",
+ "sheets": [
+  "经济指标表"
+ ],
+ "blocks": [
+  {
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "title": "龙泉县2026年季度经济运行报表",
+   "transposed": false,
+   "county": "龙泉县",
+   "period": "2026Q1",
+   "tableUnit": "万吨标准煤",
+   "excludedRows": [
+    5
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "龙泉县",
+   "metricCode": "F01",
+   "period": "2026Q1",
+   "value": 976447000000000000,
+   "rawValue": 97644700000000,
+   "sourceUnit": "万吨标准煤",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "single-table",
+  "one-sheet",
+  "layout-vertical",
+  "unit-万吨标准煤",
+  "tampered-total"
+ ]
+}

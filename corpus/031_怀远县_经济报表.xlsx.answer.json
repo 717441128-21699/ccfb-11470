@@ -1,0 +1,58 @@
+{
+ "fileName": "031_怀远县_经济报表.xlsx",
+ "county": "怀远县",
+ "sheets": [
+  "经济指标表"
+ ],
+ "blocks": [
+  {
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "title": "怀远县统计季报",
+   "transposed": true,
+   "county": "怀远县",
+   "period": "2026Q1",
+   "tableUnit": "元",
+   "excludedRows": [
+    4
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "怀远县",
+   "metricCode": "E01",
+   "period": "2026Q1",
+   "value": 342972,
+   "rawValue": 342972,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 1
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "E02",
+   "period": "2026Q1",
+   "value": 227278,
+   "rawValue": 227278,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 2
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "single-table",
+  "one-sheet",
+  "layout-transposed"
+ ]
+}

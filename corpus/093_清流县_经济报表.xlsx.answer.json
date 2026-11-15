@@ -1,0 +1,135 @@
+{
+ "fileName": "093_清流县_经济报表.xlsx",
+ "county": "清流县",
+ "sheets": [
+  "Sheet1"
+ ],
+ "blocks": [
+  {
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "title": "清流县2026年季度经济运行报表",
+   "transposed": true,
+   "county": "清流县",
+   "period": "2026Q1",
+   "tableUnit": "千元",
+   "excludedRows": [
+    4
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "清流县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 720.935,
+   "rawValue": 7209.35,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 1
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "B02",
+   "period": "2026Q1",
+   "value": 676.25,
+   "rawValue": 6762.5,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 2
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 460.006,
+   "rawValue": 4600.06,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 3
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "C02",
+   "period": "2026Q1",
+   "value": null,
+   "rawValue": null,
+   "sourceUnit": null,
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 4
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "C03",
+   "period": "2026Q1",
+   "value": 474.03,
+   "rawValue": 4740.3,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 5
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 522.147,
+   "rawValue": 5221.47,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 6
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "D02",
+   "period": "2026Q1",
+   "value": 742.742,
+   "rawValue": 7427.42,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 7
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "single-table",
+  "one-sheet",
+  "layout-transposed",
+  "unit-千元",
+  "tampered-total"
+ ]
+}

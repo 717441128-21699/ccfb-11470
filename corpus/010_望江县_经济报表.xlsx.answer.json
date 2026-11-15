@@ -1,0 +1,59 @@
+{
+ "fileName": "010_望江县_经济报表.xlsx",
+ "county": "望江县",
+ "sheets": [
+  "Sheet1"
+ ],
+ "blocks": [
+  {
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "title": "望江县统计季报",
+   "transposed": false,
+   "county": "望江县",
+   "period": "2026Q1",
+   "tableUnit": "吨标准煤",
+   "excludedRows": [
+    4,
+    5
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "望江县",
+   "metricCode": "F01",
+   "period": "2026Q1",
+   "value": 923790,
+   "rawValue": 923790,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 1
+   }
+  },
+  {
+   "county": "望江县",
+   "metricCode": "F01",
+   "period": "2026Q1",
+   "value": 923790,
+   "rawValue": 923790,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "grandtotal",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "single-table",
+  "two-sheets",
+  "layout-vertical"
+ ]
+}

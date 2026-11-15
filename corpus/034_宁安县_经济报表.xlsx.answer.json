@@ -1,0 +1,58 @@
+{
+ "fileName": "034_宁安县_经济报表.xlsx",
+ "county": "宁安县",
+ "sheets": [
+  "数据"
+ ],
+ "blocks": [
+  {
+   "sheet": "数据",
+   "blockIndex": 0,
+   "title": "宁安县主要经济指标统计表",
+   "transposed": false,
+   "county": "宁安县",
+   "period": "2026Q1",
+   "tableUnit": "吨标准煤",
+   "excludedRows": [
+    5
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "宁安县",
+   "metricCode": "F01",
+   "period": "2026Q1",
+   "value": 405405,
+   "rawValue": 405405,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "F01",
+   "period": "2026Q1",
+   "value": 405405,
+   "rawValue": 405405,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "grandtotal",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 1
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "single-table",
+  "one-sheet",
+  "layout-vertical"
+ ]
+}

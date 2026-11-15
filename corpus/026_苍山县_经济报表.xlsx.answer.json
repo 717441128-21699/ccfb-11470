@@ -1,0 +1,339 @@
+{
+ "fileName": "026_苍山县_经济报表.xlsx",
+ "county": "苍山县",
+ "sheets": [
+  "Sheet1"
+ ],
+ "blocks": [
+  {
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "title": "苍山县统计季报",
+   "transposed": false,
+   "county": "苍山县",
+   "period": "2026Q1",
+   "tableUnit": "亿元",
+   "excludedRows": [
+    4,
+    10,
+    11,
+    12,
+    16,
+    17,
+    20,
+    21
+   ]
+  },
+  {
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "title": "苍山县统计季报",
+   "transposed": false,
+   "county": "苍山县",
+   "period": "2026Q1",
+   "tableUnit": null,
+   "excludedRows": [
+    26,
+    29,
+    33
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "苍山县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 101860000000000000,
+   "rawValue": 10186000000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 1
+   }
+  },
+  {
+   "county": "苍山县",
+   "metricCode": "A02",
+   "period": "2026Q1",
+   "value": 966738000000000000,
+   "rawValue": 96673800000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 1
+   }
+  },
+  {
+   "county": "苍山县",
+   "metricCode": "A03",
+   "period": "2026Q1",
+   "value": 61194000000000000,
+   "rawValue": 6119400000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 7,
+    "col": 1
+   }
+  },
+  {
+   "county": "苍山县",
+   "metricCode": "A04",
+   "period": "2026Q1",
+   "value": 373842000000000000,
+   "rawValue": 37384200000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 8,
+    "col": 1
+   }
+  },
+  {
+   "county": "苍山县",
+   "metricCode": "A05",
+   "period": "2026Q1",
+   "value": null,
+   "rawValue": null,
+   "sourceUnit": null,
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 9,
+    "col": 1
+   }
+  },
+  {
+   "county": "苍山县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 1503634000000000000,
+   "rawValue": 150363400000000,
+   "sourceUnit": "亿元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 11,
+    "col": 1
+   }
+  },
+  {
+   "county": "苍山县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 523971000000000000,
+   "rawValue": 52397100000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 13,
+    "col": 1
+   }
+  },
+  {
+   "county": "苍山县",
+   "metricCode": "C02",
+   "period": "2026Q1",
+   "value": 436746000000000000,
+   "rawValue": 43674600000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 14,
+    "col": 1
+   }
+  },
+  {
+   "county": "苍山县",
+   "metricCode": "C03",
+   "period": "2026Q1",
+   "value": 581909000000000000,
+   "rawValue": 58190900000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 15,
+    "col": 1
+   }
+  },
+  {
+   "county": "苍山县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 1542626000000000000,
+   "rawValue": 154262600000000,
+   "sourceUnit": "亿元",
+   "rowKind": "subtotal",
+   "groupCode": "G3",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 16,
+    "col": 1
+   }
+  },
+  {
+   "county": "苍山县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 927399000000000000,
+   "rawValue": 92739900000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 18,
+    "col": 1
+   }
+  },
+  {
+   "county": "苍山县",
+   "metricCode": "D02",
+   "period": "2026Q1",
+   "value": 791734000000000000,
+   "rawValue": 79173400000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 19,
+    "col": 1
+   }
+  },
+  {
+   "county": "苍山县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 1719133000000000000,
+   "rawValue": 171913300000000,
+   "sourceUnit": "亿元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 20,
+    "col": 1
+   }
+  },
+  {
+   "county": "苍山县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 461338,
+   "rawValue": 461338,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 27,
+    "col": 1
+   }
+  },
+  {
+   "county": "苍山县",
+   "metricCode": "B02",
+   "period": "2026Q1",
+   "value": 83773,
+   "rawValue": 83773,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 28,
+    "col": 1
+   }
+  },
+  {
+   "county": "苍山县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 545111,
+   "rawValue": 545111,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G2",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 29,
+    "col": 1
+   }
+  },
+  {
+   "county": "苍山县",
+   "metricCode": "E01",
+   "period": "2026Q1",
+   "value": 93140,
+   "rawValue": 93140,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 30,
+    "col": 1
+   }
+  },
+  {
+   "county": "苍山县",
+   "metricCode": "E02",
+   "period": "2026Q1",
+   "value": 211225,
+   "rawValue": 211225,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 31,
+    "col": 1
+   }
+  },
+  {
+   "county": "苍山县",
+   "metricCode": "F01",
+   "period": "2026Q1",
+   "value": 705832,
+   "rawValue": 705832,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 32,
+    "col": 1
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "multi-table-stacked",
+  "one-sheet",
+  "layout-vertical",
+  "unit-亿元"
+ ]
+}

@@ -1,0 +1,594 @@
+{
+ "fileName": "075_太平县_经济报表.xlsx",
+ "county": "太平县",
+ "sheets": [
+  "经济指标",
+  "投资与能耗"
+ ],
+ "blocks": [
+  {
+   "sheet": "经济指标",
+   "blockIndex": 0,
+   "title": "太平县主要经济指标统计表",
+   "transposed": false,
+   "county": "太平县",
+   "period": "2026Q1",
+   "tableUnit": null,
+   "excludedRows": [
+    6,
+    8
+   ]
+  },
+  {
+   "sheet": "投资与能耗",
+   "blockIndex": 1,
+   "title": "太平县主要经济指标统计表",
+   "transposed": false,
+   "county": "太平县",
+   "period": null,
+   "tableUnit": null,
+   "excludedRows": [
+    3,
+    6,
+    9
+   ]
+  },
+  {
+   "sheet": "投资与能耗",
+   "blockIndex": 2,
+   "title": "太平县2026年第一季度经济指标表",
+   "transposed": false,
+   "county": "太平县",
+   "period": "2026Q1",
+   "tableUnit": "万元",
+   "excludedRows": [
+    15,
+    21,
+    22,
+    25,
+    26,
+    27
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "太平县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 285841,
+   "rawValue": 285841,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 1
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "C02",
+   "period": "2026Q1",
+   "value": 101288,
+   "rawValue": 101288,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "C03",
+   "period": "2026Q1",
+   "value": 43786,
+   "rawValue": 43786,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 1
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 430915,
+   "rawValue": 430915,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G3",
+   "sheet": "经济指标",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 1
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "F01",
+   "period": "2026Q1",
+   "value": 399447,
+   "rawValue": 399447,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "经济指标",
+   "blockIndex": 0,
+   "cell": {
+    "row": 7,
+    "col": 1
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 419341,
+   "rawValue": 419341,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 1,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "D01",
+   "period": "2026Q2",
+   "value": 94632,
+   "rawValue": 94632,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 1,
+   "cell": {
+    "row": 4,
+    "col": 2
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "D01",
+   "period": "2026Q3",
+   "value": 749738,
+   "rawValue": 749738,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 1,
+   "cell": {
+    "row": 4,
+    "col": 3
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "D01",
+   "period": "2026Q4",
+   "value": 615990,
+   "rawValue": 615990,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 1,
+   "cell": {
+    "row": 4,
+    "col": 4
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "D02",
+   "period": "2026Q1",
+   "value": 370046,
+   "rawValue": 370046,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 1,
+   "cell": {
+    "row": 5,
+    "col": 1
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "D02",
+   "period": "2026Q2",
+   "value": 445777,
+   "rawValue": 445777,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 1,
+   "cell": {
+    "row": 5,
+    "col": 2
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "D02",
+   "period": "2026Q3",
+   "value": 870728,
+   "rawValue": 870728,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 1,
+   "cell": {
+    "row": 5,
+    "col": 3
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "D02",
+   "period": "2026Q4",
+   "value": 649290,
+   "rawValue": 649290,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 1,
+   "cell": {
+    "row": 5,
+    "col": 4
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 789387,
+   "rawValue": 789387,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "投资与能耗",
+   "blockIndex": 1,
+   "cell": {
+    "row": 6,
+    "col": 1
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "D01",
+   "period": "2026Q2",
+   "value": 540409,
+   "rawValue": 540409,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "投资与能耗",
+   "blockIndex": 1,
+   "cell": {
+    "row": 6,
+    "col": 2
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "D01",
+   "period": "2026Q3",
+   "value": 1620466,
+   "rawValue": 1620466,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "投资与能耗",
+   "blockIndex": 1,
+   "cell": {
+    "row": 6,
+    "col": 3
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "D01",
+   "period": "2026Q4",
+   "value": 1265280,
+   "rawValue": 1265280,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "投资与能耗",
+   "blockIndex": 1,
+   "cell": {
+    "row": 6,
+    "col": 4
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "E01",
+   "period": "2026Q1",
+   "value": null,
+   "rawValue": null,
+   "sourceUnit": null,
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 1,
+   "cell": {
+    "row": 7,
+    "col": 1
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "E01",
+   "period": "2026Q2",
+   "value": 520341,
+   "rawValue": 520341,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 1,
+   "cell": {
+    "row": 7,
+    "col": 2
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "E01",
+   "period": "2026Q3",
+   "value": 584117,
+   "rawValue": 584117,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 1,
+   "cell": {
+    "row": 7,
+    "col": 3
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "E01",
+   "period": "2026Q4",
+   "value": 171246,
+   "rawValue": 171246,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 1,
+   "cell": {
+    "row": 7,
+    "col": 4
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "E02",
+   "period": "2026Q1",
+   "value": null,
+   "rawValue": null,
+   "sourceUnit": null,
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 1,
+   "cell": {
+    "row": 8,
+    "col": 1
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "E02",
+   "period": "2026Q2",
+   "value": 492988,
+   "rawValue": 492988,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 1,
+   "cell": {
+    "row": 8,
+    "col": 2
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "E02",
+   "period": "2026Q3",
+   "value": 250359,
+   "rawValue": 250359,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 1,
+   "cell": {
+    "row": 8,
+    "col": 3
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "E02",
+   "period": "2026Q4",
+   "value": 681968,
+   "rawValue": 681968,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 1,
+   "cell": {
+    "row": 8,
+    "col": 4
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 141451,
+   "rawValue": 141451,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 2,
+   "cell": {
+    "row": 16,
+    "col": 1
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "A02",
+   "period": "2026Q1",
+   "value": 786348,
+   "rawValue": 786348,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 2,
+   "cell": {
+    "row": 17,
+    "col": 1
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "A03",
+   "period": "2026Q1",
+   "value": 538931,
+   "rawValue": 538931,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 2,
+   "cell": {
+    "row": 18,
+    "col": 1
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "A04",
+   "period": "2026Q1",
+   "value": 561705,
+   "rawValue": 561705,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 2,
+   "cell": {
+    "row": 19,
+    "col": 1
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "A05",
+   "period": "2026Q1",
+   "value": 54600,
+   "rawValue": 54600,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 2,
+   "cell": {
+    "row": 20,
+    "col": 1
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 2083035,
+   "rawValue": 2083035,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "投资与能耗",
+   "blockIndex": 2,
+   "cell": {
+    "row": 21,
+    "col": 1
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 470322,
+   "rawValue": 470322,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 2,
+   "cell": {
+    "row": 23,
+    "col": 1
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "B02",
+   "period": "2026Q1",
+   "value": 77786,
+   "rawValue": 77786,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 2,
+   "cell": {
+    "row": 24,
+    "col": 1
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 548108,
+   "rawValue": 548108,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G2",
+   "sheet": "投资与能耗",
+   "blockIndex": 2,
+   "cell": {
+    "row": 25,
+    "col": 1
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 2631143,
+   "rawValue": 2631143,
+   "sourceUnit": "万元",
+   "rowKind": "grandtotal",
+   "sheet": "投资与能耗",
+   "blockIndex": 2,
+   "cell": {
+    "row": 26,
+    "col": 1
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "multi-table-stacked",
+  "two-sheets",
+  "layout-vertical",
+  "multi-period"
+ ]
+}

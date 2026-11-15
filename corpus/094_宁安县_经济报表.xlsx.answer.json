@@ -1,0 +1,826 @@
+{
+ "fileName": "094_宁安县_经济报表.xlsx",
+ "county": "宁安县",
+ "sheets": [
+  "Sheet1"
+ ],
+ "blocks": [
+  {
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "title": "宁安县主要经济指标统计表",
+   "transposed": false,
+   "county": "宁安县",
+   "period": null,
+   "tableUnit": null,
+   "excludedRows": [
+    5,
+    6,
+    8
+   ]
+  },
+  {
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "title": "宁安县主要经济指标统计表",
+   "transposed": false,
+   "county": "宁安县",
+   "period": null,
+   "tableUnit": "万元",
+   "excludedRows": [
+    16,
+    21,
+    24,
+    26,
+    27,
+    28
+   ]
+  },
+  {
+   "sheet": "Sheet1",
+   "blockIndex": 2,
+   "title": "宁安县统计季报",
+   "transposed": false,
+   "county": "宁安县",
+   "period": "2026Q1",
+   "tableUnit": null,
+   "excludedRows": [
+    35,
+    37,
+    39
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "宁安县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 160321,
+   "rawValue": 160321,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 1
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "D01",
+   "period": "2026Q2",
+   "value": 835629,
+   "rawValue": 835629,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 2
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "D01",
+   "period": "2026Q3",
+   "value": 128258,
+   "rawValue": 128258,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 3
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "D02",
+   "period": "2026Q1",
+   "value": 791445,
+   "rawValue": 791445,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "D02",
+   "period": "2026Q2",
+   "value": 426791,
+   "rawValue": 426791,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 2
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "D02",
+   "period": "2026Q3",
+   "value": 459529,
+   "rawValue": 459529,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 3
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 951766,
+   "rawValue": 951766,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 1
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "D01",
+   "period": "2026Q2",
+   "value": 1264181,
+   "rawValue": 1264181,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 2
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "D01",
+   "period": "2026Q3",
+   "value": 587787,
+   "rawValue": 587787,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 3
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "F01",
+   "period": "2026Q1",
+   "value": 646594,
+   "rawValue": 646594,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 7,
+    "col": 1
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "F01",
+   "period": "2026Q2",
+   "value": 69197,
+   "rawValue": 69197,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 7,
+    "col": 2
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "F01",
+   "period": "2026Q3",
+   "value": 63128,
+   "rawValue": 63128,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 7,
+    "col": 3
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 824101,
+   "rawValue": 824101,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 15,
+    "col": 1
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "A01",
+   "period": "2026Q2",
+   "value": 928574,
+   "rawValue": 928574,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 15,
+    "col": 2
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "A01",
+   "period": "2026Q3",
+   "value": 616839,
+   "rawValue": 616839,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 15,
+    "col": 3
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "A02",
+   "period": "2026Q1",
+   "value": 467485,
+   "rawValue": 467485,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 17,
+    "col": 1
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "A02",
+   "period": "2026Q2",
+   "value": 256360,
+   "rawValue": 256360,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 17,
+    "col": 2
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "A02",
+   "period": "2026Q3",
+   "value": 284478,
+   "rawValue": 284478,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 17,
+    "col": 3
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "A03",
+   "period": "2026Q1",
+   "value": 623373,
+   "rawValue": 623373,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 18,
+    "col": 1
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "A03",
+   "period": "2026Q2",
+   "value": 70591,
+   "rawValue": 70591,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 18,
+    "col": 2
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "A03",
+   "period": "2026Q3",
+   "value": 414288,
+   "rawValue": 414288,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 18,
+    "col": 3
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "A04",
+   "period": "2026Q1",
+   "value": 863054,
+   "rawValue": 863054,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 19,
+    "col": 1
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "A04",
+   "period": "2026Q2",
+   "value": 579331,
+   "rawValue": 579331,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 19,
+    "col": 2
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "A04",
+   "period": "2026Q3",
+   "value": 169324,
+   "rawValue": 169324,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 19,
+    "col": 3
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "A05",
+   "period": "2026Q1",
+   "value": 415242,
+   "rawValue": 415242,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 20,
+    "col": 1
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "A05",
+   "period": "2026Q2",
+   "value": 825296,
+   "rawValue": 825296,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 20,
+    "col": 2
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "A05",
+   "period": "2026Q3",
+   "value": 712539,
+   "rawValue": 712539,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 20,
+    "col": 3
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 3193255,
+   "rawValue": 3193255,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 21,
+    "col": 1
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "A01",
+   "period": "2026Q2",
+   "value": 2660152,
+   "rawValue": 2660152,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 21,
+    "col": 2
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "A01",
+   "period": "2026Q3",
+   "value": 2197468,
+   "rawValue": 2197468,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 21,
+    "col": 3
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 342969,
+   "rawValue": 342969,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 22,
+    "col": 1
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "C01",
+   "period": "2026Q2",
+   "value": 368764,
+   "rawValue": 368764,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 22,
+    "col": 2
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "C01",
+   "period": "2026Q3",
+   "value": null,
+   "rawValue": null,
+   "sourceUnit": null,
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 22,
+    "col": 3
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "C02",
+   "period": "2026Q1",
+   "value": 208285,
+   "rawValue": 208285,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 23,
+    "col": 1
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "C02",
+   "period": "2026Q2",
+   "value": 384352,
+   "rawValue": 384352,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 23,
+    "col": 2
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "C02",
+   "period": "2026Q3",
+   "value": 209412,
+   "rawValue": 209412,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 23,
+    "col": 3
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "C03",
+   "period": "2026Q1",
+   "value": 802276,
+   "rawValue": 802276,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 25,
+    "col": 1
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "C03",
+   "period": "2026Q2",
+   "value": 691802,
+   "rawValue": 691802,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 25,
+    "col": 2
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "C03",
+   "period": "2026Q3",
+   "value": 443124,
+   "rawValue": 443124,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 25,
+    "col": 3
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 1353530,
+   "rawValue": 1353530,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G3",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 26,
+    "col": 1
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "C01",
+   "period": "2026Q2",
+   "value": 1444918,
+   "rawValue": 1444918,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G3",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 26,
+    "col": 2
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "C01",
+   "period": "2026Q3",
+   "value": 652536,
+   "rawValue": 652536,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G3",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 26,
+    "col": 3
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 4546785,
+   "rawValue": 4546785,
+   "sourceUnit": "万元",
+   "rowKind": "grandtotal",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 27,
+    "col": 1
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "A01",
+   "period": "2026Q2",
+   "value": 4105374,
+   "rawValue": 4105374,
+   "sourceUnit": "万元",
+   "rowKind": "grandtotal",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 27,
+    "col": 2
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "A01",
+   "period": "2026Q3",
+   "value": 2850004,
+   "rawValue": 2850004,
+   "sourceUnit": "万元",
+   "rowKind": "grandtotal",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 27,
+    "col": 3
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 461393,
+   "rawValue": 461393,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 2,
+   "cell": {
+    "row": 33,
+    "col": 1
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "B02",
+   "period": "2026Q1",
+   "value": 342101,
+   "rawValue": 342101,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 2,
+   "cell": {
+    "row": 34,
+    "col": 1
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 805090,
+   "rawValue": 805090,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G2",
+   "sheet": "Sheet1",
+   "blockIndex": 2,
+   "cell": {
+    "row": 35,
+    "col": 1
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "E01",
+   "period": "2026Q1",
+   "value": 400277,
+   "rawValue": 400277,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 2,
+   "cell": {
+    "row": 36,
+    "col": 1
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "E02",
+   "period": "2026Q1",
+   "value": 654262,
+   "rawValue": 654262,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 2,
+   "cell": {
+    "row": 38,
+    "col": 1
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "multi-table-stacked",
+  "one-sheet",
+  "layout-vertical",
+  "multi-period",
+  "tampered-total",
+  "multi-period",
+  "tampered-total",
+  "tampered-total"
+ ]
+}

@@ -1,0 +1,574 @@
+{
+ "fileName": "056_兴隆县_经济报表.xlsx",
+ "county": "兴隆县",
+ "sheets": [
+  "数据"
+ ],
+ "blocks": [
+  {
+   "sheet": "数据",
+   "blockIndex": 0,
+   "title": "兴隆县2026年第一季度经济指标表",
+   "transposed": false,
+   "county": "兴隆县",
+   "period": "2026Q1",
+   "tableUnit": "万元",
+   "excludedRows": [
+    8,
+    9,
+    13
+   ]
+  },
+  {
+   "sheet": "数据",
+   "blockIndex": 1,
+   "title": "兴隆县经济社会发展指标表",
+   "transposed": false,
+   "county": "兴隆县",
+   "period": null,
+   "tableUnit": "万元",
+   "excludedRows": [
+    21,
+    22,
+    25,
+    26
+   ]
+  },
+  {
+   "sheet": "数据",
+   "blockIndex": 2,
+   "title": "兴隆县主要经济指标统计表",
+   "transposed": false,
+   "county": "兴隆县",
+   "period": "2026Q1",
+   "tableUnit": null,
+   "excludedRows": []
+  }
+ ],
+ "records": [
+  {
+   "county": "兴隆县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 833842,
+   "rawValue": 833842,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 1
+   }
+  },
+  {
+   "county": "兴隆县",
+   "metricCode": "A02",
+   "period": "2026Q1",
+   "value": 884136,
+   "rawValue": 884136,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  },
+  {
+   "county": "兴隆县",
+   "metricCode": "A03",
+   "period": "2026Q1",
+   "value": 704168,
+   "rawValue": 704168,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 1
+   }
+  },
+  {
+   "county": "兴隆县",
+   "metricCode": "A04",
+   "period": "2026Q1",
+   "value": 182880,
+   "rawValue": 182880,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 1
+   }
+  },
+  {
+   "county": "兴隆县",
+   "metricCode": "A05",
+   "period": "2026Q1",
+   "value": 623251,
+   "rawValue": 623251,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 7,
+    "col": 1
+   }
+  },
+  {
+   "county": "兴隆县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 3228277,
+   "rawValue": 3228277,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 9,
+    "col": 1
+   }
+  },
+  {
+   "county": "兴隆县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 843833,
+   "rawValue": 843833,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 10,
+    "col": 1
+   }
+  },
+  {
+   "county": "兴隆县",
+   "metricCode": "C02",
+   "period": "2026Q1",
+   "value": 371777,
+   "rawValue": 371777,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 11,
+    "col": 1
+   }
+  },
+  {
+   "county": "兴隆县",
+   "metricCode": "C03",
+   "period": "2026Q1",
+   "value": 407797,
+   "rawValue": 407797,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 12,
+    "col": 1
+   }
+  },
+  {
+   "county": "兴隆县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 1623407,
+   "rawValue": 1623407,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G3",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 13,
+    "col": 1
+   }
+  },
+  {
+   "county": "兴隆县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 47814,
+   "rawValue": 47814,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 19,
+    "col": 1
+   }
+  },
+  {
+   "county": "兴隆县",
+   "metricCode": "B01",
+   "period": "2026Q2",
+   "value": null,
+   "rawValue": null,
+   "sourceUnit": null,
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 19,
+    "col": 2
+   }
+  },
+  {
+   "county": "兴隆县",
+   "metricCode": "B01",
+   "period": "2026Q3",
+   "value": 647400,
+   "rawValue": 647400,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 19,
+    "col": 3
+   }
+  },
+  {
+   "county": "兴隆县",
+   "metricCode": "B02",
+   "period": "2026Q1",
+   "value": 426880,
+   "rawValue": 426880,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 20,
+    "col": 1
+   }
+  },
+  {
+   "county": "兴隆县",
+   "metricCode": "B02",
+   "period": "2026Q2",
+   "value": 656212,
+   "rawValue": 656212,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 20,
+    "col": 2
+   }
+  },
+  {
+   "county": "兴隆县",
+   "metricCode": "B02",
+   "period": "2026Q3",
+   "value": 187136,
+   "rawValue": 187136,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 20,
+    "col": 3
+   }
+  },
+  {
+   "county": "兴隆县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 474694,
+   "rawValue": 474694,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G2",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 21,
+    "col": 1
+   }
+  },
+  {
+   "county": "兴隆县",
+   "metricCode": "B01",
+   "period": "2026Q2",
+   "value": 656212,
+   "rawValue": 656212,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G2",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 21,
+    "col": 2
+   }
+  },
+  {
+   "county": "兴隆县",
+   "metricCode": "B01",
+   "period": "2026Q3",
+   "value": 834536,
+   "rawValue": 834536,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G2",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 21,
+    "col": 3
+   }
+  },
+  {
+   "county": "兴隆县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 934282,
+   "rawValue": 934282,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 23,
+    "col": 1
+   }
+  },
+  {
+   "county": "兴隆县",
+   "metricCode": "D01",
+   "period": "2026Q2",
+   "value": 900509,
+   "rawValue": 900509,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 23,
+    "col": 2
+   }
+  },
+  {
+   "county": "兴隆县",
+   "metricCode": "D01",
+   "period": "2026Q3",
+   "value": 671618,
+   "rawValue": 671618,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 23,
+    "col": 3
+   }
+  },
+  {
+   "county": "兴隆县",
+   "metricCode": "D02",
+   "period": "2026Q1",
+   "value": 600886,
+   "rawValue": 600886,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 24,
+    "col": 1
+   }
+  },
+  {
+   "county": "兴隆县",
+   "metricCode": "D02",
+   "period": "2026Q2",
+   "value": 457115,
+   "rawValue": 457115,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 24,
+    "col": 2
+   }
+  },
+  {
+   "county": "兴隆县",
+   "metricCode": "D02",
+   "period": "2026Q3",
+   "value": 26926,
+   "rawValue": 26926,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 24,
+    "col": 3
+   }
+  },
+  {
+   "county": "兴隆县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 1535168,
+   "rawValue": 1535168,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 25,
+    "col": 1
+   }
+  },
+  {
+   "county": "兴隆县",
+   "metricCode": "D01",
+   "period": "2026Q2",
+   "value": 1357624,
+   "rawValue": 1357624,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 25,
+    "col": 2
+   }
+  },
+  {
+   "county": "兴隆县",
+   "metricCode": "D01",
+   "period": "2026Q3",
+   "value": 698544,
+   "rawValue": 698544,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 25,
+    "col": 3
+   }
+  },
+  {
+   "county": "兴隆县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 2009862,
+   "rawValue": 2009862,
+   "sourceUnit": "万元",
+   "rowKind": "grandtotal",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 26,
+    "col": 1
+   }
+  },
+  {
+   "county": "兴隆县",
+   "metricCode": "B01",
+   "period": "2026Q2",
+   "value": 2013836,
+   "rawValue": 2013836,
+   "sourceUnit": "万元",
+   "rowKind": "grandtotal",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 26,
+    "col": 2
+   }
+  },
+  {
+   "county": "兴隆县",
+   "metricCode": "B01",
+   "period": "2026Q3",
+   "value": 1533080,
+   "rawValue": 1533080,
+   "sourceUnit": "万元",
+   "rowKind": "grandtotal",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 26,
+    "col": 3
+   }
+  },
+  {
+   "county": "兴隆县",
+   "metricCode": "E01",
+   "period": "2026Q1",
+   "value": 100499,
+   "rawValue": 100499,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 2,
+   "cell": {
+    "row": 32,
+    "col": 1
+   }
+  },
+  {
+   "county": "兴隆县",
+   "metricCode": "E02",
+   "period": "2026Q1",
+   "value": 908582,
+   "rawValue": 908582,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 2,
+   "cell": {
+    "row": 33,
+    "col": 1
+   }
+  },
+  {
+   "county": "兴隆县",
+   "metricCode": "F01",
+   "period": "2026Q1",
+   "value": 480156,
+   "rawValue": 480156,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 2,
+   "cell": {
+    "row": 34,
+    "col": 1
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "multi-table-stacked",
+  "one-sheet",
+  "layout-vertical",
+  "multi-period"
+ ]
+}

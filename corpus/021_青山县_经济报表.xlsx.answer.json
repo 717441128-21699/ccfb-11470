@@ -1,0 +1,252 @@
+{
+ "fileName": "021_青山县_经济报表.xlsx",
+ "county": "青山县",
+ "sheets": [
+  "数据"
+ ],
+ "blocks": [
+  {
+   "sheet": "数据",
+   "blockIndex": 0,
+   "title": "青山县2026年第一季度经济指标表",
+   "transposed": false,
+   "county": "青山县",
+   "period": "2026Q1",
+   "tableUnit": null,
+   "excludedRows": [
+    4,
+    7,
+    9,
+    11,
+    12,
+    14,
+    15,
+    16,
+    18,
+    20,
+    21
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "青山县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 827670,
+   "rawValue": 827670,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 1
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "A05",
+   "period": "2026Q1",
+   "value": 902325,
+   "rawValue": 902325,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 1
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "A04",
+   "period": "2026Q1",
+   "value": 593491,
+   "rawValue": 593491,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 1
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 2323486,
+   "rawValue": 2323486,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 7,
+    "col": 1
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "B02",
+   "period": "2026Q1",
+   "value": 388310,
+   "rawValue": 388310,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 8,
+    "col": 1
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 824016,
+   "rawValue": 824016,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 10,
+    "col": 1
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 1212326,
+   "rawValue": 1212326,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G2",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 12,
+    "col": 1
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 106882,
+   "rawValue": 106882,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 13,
+    "col": 1
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 106882,
+   "rawValue": 106882,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G3",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 15,
+    "col": 1
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "D02",
+   "period": "2026Q1",
+   "value": 751170,
+   "rawValue": 751170,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 17,
+    "col": 1
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 562791,
+   "rawValue": 562791,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 19,
+    "col": 1
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 1313961,
+   "rawValue": 1313961,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 20,
+    "col": 1
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "E02",
+   "period": "2026Q1",
+   "value": 172130,
+   "rawValue": 172130,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 22,
+    "col": 1
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "E01",
+   "period": "2026Q1",
+   "value": 540406,
+   "rawValue": 540406,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 23,
+    "col": 1
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "single-table",
+  "two-sheets",
+  "layout-vertical"
+ ]
+}

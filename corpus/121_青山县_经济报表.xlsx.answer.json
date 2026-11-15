@@ -1,0 +1,119 @@
+{
+ "fileName": "121_青山县_经济报表.xlsx",
+ "county": "青山县",
+ "sheets": [
+  "数据"
+ ],
+ "blocks": [
+  {
+   "sheet": "数据",
+   "blockIndex": 0,
+   "title": "青山县主要经济指标统计表",
+   "transposed": false,
+   "county": "青山县",
+   "period": null,
+   "tableUnit": "吨标准煤",
+   "excludedRows": [
+    5
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "青山县",
+   "metricCode": "F01",
+   "period": "2026Q1",
+   "value": 228850,
+   "rawValue": 228850,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "F01",
+   "period": "2026Q2",
+   "value": 822131,
+   "rawValue": 822131,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 2
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "F01",
+   "period": "2026Q3",
+   "value": 59765,
+   "rawValue": 59765,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 3
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "F01",
+   "period": "2026Q1",
+   "value": 228850,
+   "rawValue": 228850,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "grandtotal",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 1
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "F01",
+   "period": "2026Q2",
+   "value": 822131,
+   "rawValue": 822131,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "grandtotal",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 2
+   }
+  },
+  {
+   "county": "青山县",
+   "metricCode": "F01",
+   "period": "2026Q3",
+   "value": 59765,
+   "rawValue": 59765,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "grandtotal",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 3
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "single-table",
+  "one-sheet",
+  "layout-vertical",
+  "multi-period"
+ ]
+}

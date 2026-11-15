@@ -1,0 +1,443 @@
+{
+ "fileName": "090_望江县_经济报表.xlsx",
+ "county": "望江县",
+ "sheets": [
+  "经济指标表"
+ ],
+ "blocks": [
+  {
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "title": "望江县统计季报",
+   "transposed": false,
+   "county": "望江县",
+   "period": "2026Q1",
+   "tableUnit": "万元",
+   "excludedRows": [
+    9,
+    10,
+    13,
+    14,
+    18,
+    19
+   ]
+  },
+  {
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "title": "望江县2026年季度经济运行报表",
+   "transposed": false,
+   "county": "望江县",
+   "period": null,
+   "tableUnit": null,
+   "excludedRows": [
+    28,
+    29,
+    31
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "望江县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 948981,
+   "rawValue": 948981,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  },
+  {
+   "county": "望江县",
+   "metricCode": "A02",
+   "period": "2026Q1",
+   "value": 123052,
+   "rawValue": 123052,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 1
+   }
+  },
+  {
+   "county": "望江县",
+   "metricCode": "A03",
+   "period": "2026Q1",
+   "value": 366454,
+   "rawValue": 366454,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 1
+   }
+  },
+  {
+   "county": "望江县",
+   "metricCode": "A04",
+   "period": "2026Q1",
+   "value": 111987,
+   "rawValue": 111987,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 7,
+    "col": 1
+   }
+  },
+  {
+   "county": "望江县",
+   "metricCode": "A05",
+   "period": "2026Q1",
+   "value": 827162,
+   "rawValue": 827162,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 8,
+    "col": 1
+   }
+  },
+  {
+   "county": "望江县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 2377636,
+   "rawValue": 2377636,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 9,
+    "col": 1
+   }
+  },
+  {
+   "county": "望江县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 603108,
+   "rawValue": 603108,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 11,
+    "col": 1
+   }
+  },
+  {
+   "county": "望江县",
+   "metricCode": "B02",
+   "period": "2026Q1",
+   "value": 139203,
+   "rawValue": 139203,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 12,
+    "col": 1
+   }
+  },
+  {
+   "county": "望江县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 742311,
+   "rawValue": 742311,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G2",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 14,
+    "col": 1
+   }
+  },
+  {
+   "county": "望江县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 405089,
+   "rawValue": 405089,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 15,
+    "col": 1
+   }
+  },
+  {
+   "county": "望江县",
+   "metricCode": "C02",
+   "period": "2026Q1",
+   "value": 309904,
+   "rawValue": 309904,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 16,
+    "col": 1
+   }
+  },
+  {
+   "county": "望江县",
+   "metricCode": "C03",
+   "period": "2026Q1",
+   "value": 444041,
+   "rawValue": 444041,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 17,
+    "col": 1
+   }
+  },
+  {
+   "county": "望江县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 1159034,
+   "rawValue": 1159034,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G3",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 18,
+    "col": 1
+   }
+  },
+  {
+   "county": "望江县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 4278981,
+   "rawValue": 4278981,
+   "sourceUnit": "万元",
+   "rowKind": "grandtotal",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 19,
+    "col": 1
+   }
+  },
+  {
+   "county": "望江县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 619985,
+   "rawValue": 619985,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 26,
+    "col": 1
+   }
+  },
+  {
+   "county": "望江县",
+   "metricCode": "D01",
+   "period": "2026Q2",
+   "value": 598751,
+   "rawValue": 598751,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 26,
+    "col": 2
+   }
+  },
+  {
+   "county": "望江县",
+   "metricCode": "D02",
+   "period": "2026Q1",
+   "value": 558481,
+   "rawValue": 558481,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 27,
+    "col": 1
+   }
+  },
+  {
+   "county": "望江县",
+   "metricCode": "D02",
+   "period": "2026Q2",
+   "value": 507808,
+   "rawValue": 507808,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 27,
+    "col": 2
+   }
+  },
+  {
+   "county": "望江县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 1178466,
+   "rawValue": 1178466,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 29,
+    "col": 1
+   }
+  },
+  {
+   "county": "望江县",
+   "metricCode": "D01",
+   "period": "2026Q2",
+   "value": 1106559,
+   "rawValue": 1106559,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 29,
+    "col": 2
+   }
+  },
+  {
+   "county": "望江县",
+   "metricCode": "E01",
+   "period": "2026Q1",
+   "value": 941761,
+   "rawValue": 941761,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 30,
+    "col": 1
+   }
+  },
+  {
+   "county": "望江县",
+   "metricCode": "E01",
+   "period": "2026Q2",
+   "value": 727092,
+   "rawValue": 727092,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 30,
+    "col": 2
+   }
+  },
+  {
+   "county": "望江县",
+   "metricCode": "E02",
+   "period": "2026Q1",
+   "value": 309067,
+   "rawValue": 309067,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 32,
+    "col": 1
+   }
+  },
+  {
+   "county": "望江县",
+   "metricCode": "E02",
+   "period": "2026Q2",
+   "value": 223285,
+   "rawValue": 223285,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 32,
+    "col": 2
+   }
+  },
+  {
+   "county": "望江县",
+   "metricCode": "F01",
+   "period": "2026Q1",
+   "value": 564463,
+   "rawValue": 564463,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 33,
+    "col": 1
+   }
+  },
+  {
+   "county": "望江县",
+   "metricCode": "F01",
+   "period": "2026Q2",
+   "value": 492360,
+   "rawValue": 492360,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 33,
+    "col": 2
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "multi-table-stacked",
+  "one-sheet",
+  "layout-vertical",
+  "multi-period"
+ ]
+}

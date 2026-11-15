@@ -1,0 +1,88 @@
+{
+ "fileName": "112_定远县_经济报表.xlsx",
+ "county": "定远县",
+ "sheets": [
+  "数据"
+ ],
+ "blocks": [
+  {
+   "sheet": "数据",
+   "blockIndex": 0,
+   "title": "定远县2026年季度经济运行报表",
+   "transposed": false,
+   "county": "定远县",
+   "period": null,
+   "tableUnit": "千元",
+   "excludedRows": []
+  }
+ ],
+ "records": [
+  {
+   "county": "定远县",
+   "metricCode": "E02",
+   "period": "2026Q1",
+   "value": 391815000000000,
+   "rawValue": 391815000000,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  },
+  {
+   "county": "定远县",
+   "metricCode": "E02",
+   "period": "2026Q2",
+   "value": null,
+   "rawValue": null,
+   "sourceUnit": null,
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 2
+   }
+  },
+  {
+   "county": "定远县",
+   "metricCode": "E01",
+   "period": "2026Q1",
+   "value": 299132000000000,
+   "rawValue": 299132000000,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 1
+   }
+  },
+  {
+   "county": "定远县",
+   "metricCode": "E01",
+   "period": "2026Q2",
+   "value": 826576000000000,
+   "rawValue": 826576000000,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 2
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "single-table",
+  "one-sheet",
+  "layout-vertical",
+  "multi-period",
+  "unit-千元"
+ ]
+}

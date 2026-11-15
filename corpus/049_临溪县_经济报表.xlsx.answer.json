@@ -1,0 +1,43 @@
+{
+ "fileName": "049_临溪县_经济报表.xlsx",
+ "county": "临溪县",
+ "sheets": [
+  "报表"
+ ],
+ "blocks": [
+  {
+   "sheet": "报表",
+   "blockIndex": 0,
+   "title": "临溪县2026年第一季度经济指标表",
+   "transposed": false,
+   "county": "临溪县",
+   "period": "2026Q1",
+   "tableUnit": "吨标准煤",
+   "excludedRows": [
+    4
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "临溪县",
+   "metricCode": "F01",
+   "period": "2026Q1",
+   "value": 979344,
+   "rawValue": 979344,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 1
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "single-table",
+  "one-sheet",
+  "layout-vertical"
+ ]
+}

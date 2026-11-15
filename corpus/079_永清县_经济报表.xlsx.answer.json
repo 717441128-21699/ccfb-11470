@@ -1,0 +1,1075 @@
+{
+ "fileName": "079_永清县_经济报表.xlsx",
+ "county": "永清县",
+ "sheets": [
+  "报表"
+ ],
+ "blocks": [
+  {
+   "sheet": "报表",
+   "blockIndex": 0,
+   "title": "永清县2026年季度经济运行报表",
+   "transposed": false,
+   "county": "永清县",
+   "period": null,
+   "tableUnit": "亿元",
+   "excludedRows": [
+    3,
+    9,
+    10,
+    13,
+    14,
+    18,
+    19,
+    22,
+    23,
+    24
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "永清县",
+   "metricCode": "A03",
+   "period": "2026Q1",
+   "value": 308906000000000000,
+   "rawValue": 30890600000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "A03",
+   "period": "2026Q2",
+   "value": 116551000000000000,
+   "rawValue": 11655100000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 2
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "A03",
+   "period": "2026Q3",
+   "value": 196261000000000000,
+   "rawValue": 19626100000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 3
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "A03",
+   "period": "2026Q4",
+   "value": 51882000000000000,
+   "rawValue": 5188200000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 4
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "A05",
+   "period": "2026Q1",
+   "value": 270942000000000000,
+   "rawValue": 27094200000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 1
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "A05",
+   "period": "2026Q2",
+   "value": 365445000000000000,
+   "rawValue": 36544500000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 2
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "A05",
+   "period": "2026Q3",
+   "value": 255318000000000000,
+   "rawValue": 25531800000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 3
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "A05",
+   "period": "2026Q4",
+   "value": 418995000000000000,
+   "rawValue": 41899500000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 4
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "A02",
+   "period": "2026Q1",
+   "value": 552739000000000000,
+   "rawValue": 55273900000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 1
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "A02",
+   "period": "2026Q2",
+   "value": 240725000000000000,
+   "rawValue": 24072500000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 2
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "A02",
+   "period": "2026Q3",
+   "value": 738106000000000000,
+   "rawValue": 73810600000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 3
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "A02",
+   "period": "2026Q4",
+   "value": 784851000000000000,
+   "rawValue": 78485100000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 4
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 932413000000000000,
+   "rawValue": 93241300000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 7,
+    "col": 1
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "A01",
+   "period": "2026Q2",
+   "value": 23710000000000000,
+   "rawValue": 2371000000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 7,
+    "col": 2
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "A01",
+   "period": "2026Q3",
+   "value": 849305000000000000,
+   "rawValue": 84930500000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 7,
+    "col": 3
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "A01",
+   "period": "2026Q4",
+   "value": 421891000000000000,
+   "rawValue": 42189100000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 7,
+    "col": 4
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "A04",
+   "period": "2026Q1",
+   "value": 337894000000000000,
+   "rawValue": 33789400000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 8,
+    "col": 1
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "A04",
+   "period": "2026Q2",
+   "value": 934332000000000000,
+   "rawValue": 93433200000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 8,
+    "col": 2
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "A04",
+   "period": "2026Q3",
+   "value": 84551000000000000,
+   "rawValue": 8455100000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 8,
+    "col": 3
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "A04",
+   "period": "2026Q4",
+   "value": 67778000000000000,
+   "rawValue": 6777800000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 8,
+    "col": 4
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 2402894000000000000,
+   "rawValue": 240289400000000,
+   "sourceUnit": "亿元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 9,
+    "col": 1
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "A01",
+   "period": "2026Q2",
+   "value": 1680763000000000000,
+   "rawValue": 168076300000000,
+   "sourceUnit": "亿元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 9,
+    "col": 2
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "A01",
+   "period": "2026Q3",
+   "value": 2123541000000000000,
+   "rawValue": 212354100000000,
+   "sourceUnit": "亿元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 9,
+    "col": 3
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "A01",
+   "period": "2026Q4",
+   "value": 1745397000000000000,
+   "rawValue": 174539700000000,
+   "sourceUnit": "亿元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 9,
+    "col": 4
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 429423000000000000,
+   "rawValue": 42942300000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 11,
+    "col": 1
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "B01",
+   "period": "2026Q2",
+   "value": 513741000000000000,
+   "rawValue": 51374100000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 11,
+    "col": 2
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "B01",
+   "period": "2026Q3",
+   "value": 393997000000000000,
+   "rawValue": 39399700000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 11,
+    "col": 3
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "B01",
+   "period": "2026Q4",
+   "value": 679404000000000000,
+   "rawValue": 67940400000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 11,
+    "col": 4
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "B02",
+   "period": "2026Q1",
+   "value": 863301000000000000,
+   "rawValue": 86330100000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 12,
+    "col": 1
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "B02",
+   "period": "2026Q2",
+   "value": 707704000000000000,
+   "rawValue": 70770400000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 12,
+    "col": 2
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "B02",
+   "period": "2026Q3",
+   "value": 236363000000000000,
+   "rawValue": 23636300000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 12,
+    "col": 3
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "B02",
+   "period": "2026Q4",
+   "value": 540967000000000000,
+   "rawValue": 54096700000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 12,
+    "col": 4
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 1292724000000000000,
+   "rawValue": 129272400000000,
+   "sourceUnit": "亿元",
+   "rowKind": "subtotal",
+   "groupCode": "G2",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 13,
+    "col": 1
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "B01",
+   "period": "2026Q2",
+   "value": 1221445000000000000,
+   "rawValue": 122144500000000,
+   "sourceUnit": "亿元",
+   "rowKind": "subtotal",
+   "groupCode": "G2",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 13,
+    "col": 2
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "B01",
+   "period": "2026Q3",
+   "value": 630360000000000000,
+   "rawValue": 63036000000000,
+   "sourceUnit": "亿元",
+   "rowKind": "subtotal",
+   "groupCode": "G2",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 13,
+    "col": 3
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "B01",
+   "period": "2026Q4",
+   "value": 1220371000000000000,
+   "rawValue": 122037100000000,
+   "sourceUnit": "亿元",
+   "rowKind": "subtotal",
+   "groupCode": "G2",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 13,
+    "col": 4
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 712235000000000000,
+   "rawValue": 71223500000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 15,
+    "col": 1
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "C01",
+   "period": "2026Q2",
+   "value": 851524000000000000,
+   "rawValue": 85152400000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 15,
+    "col": 2
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "C01",
+   "period": "2026Q3",
+   "value": 134182000000000000,
+   "rawValue": 13418200000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 15,
+    "col": 3
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "C01",
+   "period": "2026Q4",
+   "value": null,
+   "rawValue": null,
+   "sourceUnit": null,
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 15,
+    "col": 4
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "C02",
+   "period": "2026Q1",
+   "value": 145330000000000000,
+   "rawValue": 14533000000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 16,
+    "col": 1
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "C02",
+   "period": "2026Q2",
+   "value": 963663000000000000,
+   "rawValue": 96366300000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 16,
+    "col": 2
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "C02",
+   "period": "2026Q3",
+   "value": 979655000000000000,
+   "rawValue": 97965500000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 16,
+    "col": 3
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "C02",
+   "period": "2026Q4",
+   "value": 761778000000000000,
+   "rawValue": 76177800000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 16,
+    "col": 4
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "C03",
+   "period": "2026Q1",
+   "value": 301101000000000000,
+   "rawValue": 30110100000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 17,
+    "col": 1
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "C03",
+   "period": "2026Q2",
+   "value": 35764000000000000,
+   "rawValue": 3576400000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 17,
+    "col": 2
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "C03",
+   "period": "2026Q3",
+   "value": 246487000000000000,
+   "rawValue": 24648700000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 17,
+    "col": 3
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "C03",
+   "period": "2026Q4",
+   "value": 442659000000000000,
+   "rawValue": 44265900000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 17,
+    "col": 4
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 1158666000000000000,
+   "rawValue": 115866600000000,
+   "sourceUnit": "亿元",
+   "rowKind": "subtotal",
+   "groupCode": "G3",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 18,
+    "col": 1
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "C01",
+   "period": "2026Q2",
+   "value": 1850951000000000000,
+   "rawValue": 185095100000000,
+   "sourceUnit": "亿元",
+   "rowKind": "subtotal",
+   "groupCode": "G3",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 18,
+    "col": 2
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "C01",
+   "period": "2026Q3",
+   "value": 1360324000000000000,
+   "rawValue": 136032400000000,
+   "sourceUnit": "亿元",
+   "rowKind": "subtotal",
+   "groupCode": "G3",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 18,
+    "col": 3
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "C01",
+   "period": "2026Q4",
+   "value": 1204437000000000000,
+   "rawValue": 120443700000000,
+   "sourceUnit": "亿元",
+   "rowKind": "subtotal",
+   "groupCode": "G3",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 18,
+    "col": 4
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 342347000000000000,
+   "rawValue": 34234700000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 20,
+    "col": 1
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "D01",
+   "period": "2026Q2",
+   "value": 210577000000000000,
+   "rawValue": 21057700000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 20,
+    "col": 2
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "D01",
+   "period": "2026Q3",
+   "value": 968246000000000000,
+   "rawValue": 96824600000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 20,
+    "col": 3
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "D01",
+   "period": "2026Q4",
+   "value": 815431000000000000,
+   "rawValue": 81543100000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 20,
+    "col": 4
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "D02",
+   "period": "2026Q1",
+   "value": 781336000000000000,
+   "rawValue": 78133600000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 21,
+    "col": 1
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "D02",
+   "period": "2026Q2",
+   "value": 208665000000000000,
+   "rawValue": 20866500000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 21,
+    "col": 2
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "D02",
+   "period": "2026Q3",
+   "value": 418997000000000000,
+   "rawValue": 41899700000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 21,
+    "col": 3
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "D02",
+   "period": "2026Q4",
+   "value": 272763000000000000,
+   "rawValue": 27276300000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 21,
+    "col": 4
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 1123683000000000000,
+   "rawValue": 112368300000000,
+   "sourceUnit": "亿元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 22,
+    "col": 1
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "D01",
+   "period": "2026Q2",
+   "value": 419242000000000000,
+   "rawValue": 41924200000000,
+   "sourceUnit": "亿元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 22,
+    "col": 2
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "D01",
+   "period": "2026Q3",
+   "value": 1387243000000000000,
+   "rawValue": 138724300000000,
+   "sourceUnit": "亿元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 22,
+    "col": 3
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "D01",
+   "period": "2026Q4",
+   "value": 1088194000000000000,
+   "rawValue": 108819400000000,
+   "sourceUnit": "亿元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 22,
+    "col": 4
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "A03",
+   "period": "2026Q1",
+   "value": 5977967000000000000,
+   "rawValue": 597796700000000,
+   "sourceUnit": "亿元",
+   "rowKind": "grandtotal",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 23,
+    "col": 1
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "A03",
+   "period": "2026Q2",
+   "value": 5172401000000000000,
+   "rawValue": 517240100000000,
+   "sourceUnit": "亿元",
+   "rowKind": "grandtotal",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 23,
+    "col": 2
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "A03",
+   "period": "2026Q3",
+   "value": 5501468000000000000,
+   "rawValue": 550146800000000,
+   "sourceUnit": "亿元",
+   "rowKind": "grandtotal",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 23,
+    "col": 3
+   }
+  },
+  {
+   "county": "永清县",
+   "metricCode": "A03",
+   "period": "2026Q4",
+   "value": 5258399000000000000,
+   "rawValue": 525839900000000,
+   "sourceUnit": "亿元",
+   "rowKind": "grandtotal",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 23,
+    "col": 4
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "single-table",
+  "one-sheet",
+  "layout-vertical",
+  "multi-period",
+  "unit-亿元"
+ ]
+}

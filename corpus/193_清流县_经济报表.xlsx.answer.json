@@ -1,0 +1,380 @@
+{
+ "fileName": "193_清流县_经济报表.xlsx",
+ "county": "清流县",
+ "sheets": [
+  "经济指标表"
+ ],
+ "blocks": [
+  {
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "title": "清流县统计季报",
+   "transposed": false,
+   "county": "清流县",
+   "period": "2026Q1",
+   "tableUnit": "万元",
+   "excludedRows": [
+    8,
+    9,
+    12,
+    16,
+    17
+   ]
+  },
+  {
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "title": "清流县统计季报",
+   "transposed": false,
+   "county": "清流县",
+   "period": null,
+   "tableUnit": "千元",
+   "excludedRows": [
+    25,
+    26
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "清流县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 810538,
+   "rawValue": 810538,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 1
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "A02",
+   "period": "2026Q1",
+   "value": 99860,
+   "rawValue": 99860,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "A03",
+   "period": "2026Q1",
+   "value": 599871,
+   "rawValue": 599871,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 1
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "A04",
+   "period": "2026Q1",
+   "value": 72050,
+   "rawValue": 72050,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 1
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "A05",
+   "period": "2026Q1",
+   "value": 392406,
+   "rawValue": 392406,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 7,
+    "col": 1
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 1974725,
+   "rawValue": 1974725,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 9,
+    "col": 1
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 285368,
+   "rawValue": 285368,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 10,
+    "col": 1
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "B02",
+   "period": "2026Q1",
+   "value": 22386,
+   "rawValue": 22386,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 11,
+    "col": 1
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 307754,
+   "rawValue": 307754,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G2",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 12,
+    "col": 1
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 336949,
+   "rawValue": 336949,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 13,
+    "col": 1
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "C02",
+   "period": "2026Q1",
+   "value": 225800,
+   "rawValue": 225800,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 14,
+    "col": 1
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "C03",
+   "period": "2026Q1",
+   "value": 454072,
+   "rawValue": 454072,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 15,
+    "col": 1
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 1016821,
+   "rawValue": 1016821,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G3",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 16,
+    "col": 1
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "E01",
+   "period": "2026Q1",
+   "value": 55206000000000,
+   "rawValue": 55206000000,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 23,
+    "col": 1
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "E01",
+   "period": "2026Q2",
+   "value": 373926000000000,
+   "rawValue": 373926000000,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 23,
+    "col": 2
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "E01",
+   "period": "2026Q3",
+   "value": 320268000000000,
+   "rawValue": 320268000000,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 23,
+    "col": 3
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "E02",
+   "period": "2026Q1",
+   "value": 692820000000000,
+   "rawValue": 692820000000,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 24,
+    "col": 1
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "E02",
+   "period": "2026Q2",
+   "value": 372263000000000,
+   "rawValue": 372263000000,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 24,
+    "col": 2
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "E02",
+   "period": "2026Q3",
+   "value": 58814000000000,
+   "rawValue": 58814000000,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 24,
+    "col": 3
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "E01",
+   "period": "2026Q1",
+   "value": 748026000000000,
+   "rawValue": 748026000000,
+   "sourceUnit": "千元",
+   "rowKind": "grandtotal",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 25,
+    "col": 1
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "E01",
+   "period": "2026Q2",
+   "value": 746189000000000,
+   "rawValue": 746189000000,
+   "sourceUnit": "千元",
+   "rowKind": "grandtotal",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 25,
+    "col": 2
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "E01",
+   "period": "2026Q3",
+   "value": 379082000000000,
+   "rawValue": 379082000000,
+   "sourceUnit": "千元",
+   "rowKind": "grandtotal",
+   "sheet": "经济指标表",
+   "blockIndex": 1,
+   "cell": {
+    "row": 25,
+    "col": 3
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "multi-table-stacked",
+  "one-sheet",
+  "layout-vertical",
+  "multi-period",
+  "unit-千元"
+ ]
+}

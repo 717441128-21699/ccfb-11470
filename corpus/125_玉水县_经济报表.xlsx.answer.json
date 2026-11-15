@@ -1,0 +1,509 @@
+{
+ "fileName": "125_玉水县_经济报表.xlsx",
+ "county": "玉水县",
+ "sheets": [
+  "Sheet1"
+ ],
+ "blocks": [
+  {
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "title": "玉水县2026年季度经济运行报表",
+   "transposed": true,
+   "county": "玉水县",
+   "period": null,
+   "tableUnit": null,
+   "excludedRows": [
+    8
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "玉水县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 197359,
+   "rawValue": 197359,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "A02",
+   "period": "2026Q1",
+   "value": 492256,
+   "rawValue": 492256,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 2
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "A03",
+   "period": "2026Q1",
+   "value": 122608,
+   "rawValue": 122608,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 3
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "A04",
+   "period": "2026Q1",
+   "value": 664067,
+   "rawValue": 664067,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 4
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "A05",
+   "period": "2026Q1",
+   "value": 382490,
+   "rawValue": 382490,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 5
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "E01",
+   "period": "2026Q1",
+   "value": 66991,
+   "rawValue": 66991,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 6
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "E02",
+   "period": "2026Q1",
+   "value": 706513,
+   "rawValue": 706513,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 7
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "F01",
+   "period": "2026Q1",
+   "value": 239539,
+   "rawValue": 239539,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 8
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "A01",
+   "period": "2026Q2",
+   "value": 325414,
+   "rawValue": 325414,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 1
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "A02",
+   "period": "2026Q2",
+   "value": 138386,
+   "rawValue": 138386,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 2
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "A03",
+   "period": "2026Q2",
+   "value": 513395,
+   "rawValue": 513395,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 3
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "A04",
+   "period": "2026Q2",
+   "value": 42137,
+   "rawValue": 42137,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 4
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "A05",
+   "period": "2026Q2",
+   "value": 154593,
+   "rawValue": 154593,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 5
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "E01",
+   "period": "2026Q2",
+   "value": 367125,
+   "rawValue": 367125,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 6
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "E02",
+   "period": "2026Q2",
+   "value": 163011,
+   "rawValue": 163011,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 7
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "F01",
+   "period": "2026Q2",
+   "value": 390078,
+   "rawValue": 390078,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 8
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "A01",
+   "period": "2026Q3",
+   "value": 969270,
+   "rawValue": 969270,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 1
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "A02",
+   "period": "2026Q3",
+   "value": 415918,
+   "rawValue": 415918,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 2
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "A03",
+   "period": "2026Q3",
+   "value": 620728,
+   "rawValue": 620728,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 3
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "A04",
+   "period": "2026Q3",
+   "value": 472525,
+   "rawValue": 472525,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 4
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "A05",
+   "period": "2026Q3",
+   "value": 729736,
+   "rawValue": 729736,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 5
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "E01",
+   "period": "2026Q3",
+   "value": 977074,
+   "rawValue": 977074,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 6
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "E02",
+   "period": "2026Q3",
+   "value": 590414,
+   "rawValue": 590414,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 7
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "F01",
+   "period": "2026Q3",
+   "value": 467861,
+   "rawValue": 467861,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 8
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "A01",
+   "period": "2026Q4",
+   "value": 90974,
+   "rawValue": 90974,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 7,
+    "col": 1
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "A02",
+   "period": "2026Q4",
+   "value": 450607,
+   "rawValue": 450607,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 7,
+    "col": 2
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "A03",
+   "period": "2026Q4",
+   "value": 30639,
+   "rawValue": 30639,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 7,
+    "col": 3
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "A04",
+   "period": "2026Q4",
+   "value": 172848,
+   "rawValue": 172848,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 7,
+    "col": 4
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "A05",
+   "period": "2026Q4",
+   "value": 511354,
+   "rawValue": 511354,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 7,
+    "col": 5
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "E01",
+   "period": "2026Q4",
+   "value": 790869,
+   "rawValue": 790869,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 7,
+    "col": 6
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "E02",
+   "period": "2026Q4",
+   "value": 430702,
+   "rawValue": 430702,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 7,
+    "col": 7
+   }
+  },
+  {
+   "county": "玉水县",
+   "metricCode": "F01",
+   "period": "2026Q4",
+   "value": 915051,
+   "rawValue": 915051,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 7,
+    "col": 8
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "single-table",
+  "one-sheet",
+  "layout-transposed",
+  "multi-period"
+ ]
+}

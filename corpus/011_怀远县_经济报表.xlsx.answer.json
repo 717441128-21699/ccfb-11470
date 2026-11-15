@@ -1,0 +1,199 @@
+{
+ "fileName": "011_怀远县_经济报表.xlsx",
+ "county": "怀远县",
+ "sheets": [
+  "报表"
+ ],
+ "blocks": [
+  {
+   "sheet": "报表",
+   "blockIndex": 0,
+   "title": "怀远县统计季报",
+   "transposed": false,
+   "county": "怀远县",
+   "period": "2026Q1",
+   "tableUnit": null,
+   "excludedRows": [
+    6,
+    9,
+    12,
+    14
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "怀远县",
+   "metricCode": "A03",
+   "period": "2026Q1",
+   "value": null,
+   "rawValue": null,
+   "sourceUnit": null,
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 1
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 855341,
+   "rawValue": 855341,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "A02",
+   "period": "2026Q1",
+   "value": 169103,
+   "rawValue": 169103,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 1
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 1024444,
+   "rawValue": 1024444,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 1
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 310931,
+   "rawValue": 310931,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 7,
+    "col": 1
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "C02",
+   "period": "2026Q1",
+   "value": 279482,
+   "rawValue": 279482,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 8,
+    "col": 1
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 590413,
+   "rawValue": 590413,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G3",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 9,
+    "col": 1
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "D02",
+   "period": "2026Q1",
+   "value": 730966,
+   "rawValue": 730966,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 10,
+    "col": 1
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 954130,
+   "rawValue": 954130,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 11,
+    "col": 1
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 1685096,
+   "rawValue": 1685096,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 12,
+    "col": 1
+   }
+  },
+  {
+   "county": "怀远县",
+   "metricCode": "E01",
+   "period": "2026Q1",
+   "value": 721375,
+   "rawValue": 721375,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 13,
+    "col": 1
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "single-table",
+  "two-sheets",
+  "layout-vertical"
+ ]
+}

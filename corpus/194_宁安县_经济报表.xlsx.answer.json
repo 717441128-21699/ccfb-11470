@@ -1,0 +1,369 @@
+{
+ "fileName": "194_宁安县_经济报表.xlsx",
+ "county": "宁安县",
+ "sheets": [
+  "数据"
+ ],
+ "blocks": [
+  {
+   "sheet": "数据",
+   "blockIndex": 0,
+   "title": "宁安县2026年季度经济运行报表",
+   "transposed": false,
+   "county": "宁安县",
+   "period": "2026Q1",
+   "tableUnit": null,
+   "excludedRows": [
+    5,
+    7,
+    10,
+    12,
+    13
+   ]
+  },
+  {
+   "sheet": "数据",
+   "blockIndex": 1,
+   "title": "宁安县统计季报",
+   "transposed": false,
+   "county": "宁安县",
+   "period": "2026Q1",
+   "tableUnit": "亿元",
+   "excludedRows": [
+    20,
+    23,
+    25,
+    26,
+    27,
+    28
+   ]
+  },
+  {
+   "sheet": "数据",
+   "blockIndex": 2,
+   "title": "宁安县主要经济指标统计表",
+   "transposed": false,
+   "county": "宁安县",
+   "period": "2026Q1",
+   "tableUnit": null,
+   "excludedRows": [
+    34,
+    36,
+    37,
+    40
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "宁安县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 900572,
+   "rawValue": 900572,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 1
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "A02",
+   "period": "2026Q1",
+   "value": 96027,
+   "rawValue": 96027,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "A03",
+   "period": "2026Q1",
+   "value": 658251,
+   "rawValue": 658251,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 1
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "A04",
+   "period": "2026Q1",
+   "value": 508048,
+   "rawValue": 508048,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 8,
+    "col": 1
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "A05",
+   "period": "2026Q1",
+   "value": 270252,
+   "rawValue": 270252,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 9,
+    "col": 1
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 2433150,
+   "rawValue": 2433150,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 10,
+    "col": 1
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "F01",
+   "period": "2026Q1",
+   "value": 355809,
+   "rawValue": 355809,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 11,
+    "col": 1
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 969015000000000000,
+   "rawValue": 96901500000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 18,
+    "col": 1
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "B02",
+   "period": "2026Q1",
+   "value": 347225000000000000,
+   "rawValue": 34722500000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 19,
+    "col": 1
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 1316240000000000000,
+   "rawValue": 131624000000000,
+   "sourceUnit": "亿元",
+   "rowKind": "subtotal",
+   "groupCode": "G2",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 20,
+    "col": 1
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 554153000000000000,
+   "rawValue": 55415300000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 21,
+    "col": 1
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "C02",
+   "period": "2026Q1",
+   "value": 688951000000000000,
+   "rawValue": 68895100000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 22,
+    "col": 1
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "C03",
+   "period": "2026Q1",
+   "value": 10980000000000000,
+   "rawValue": 1098000000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 24,
+    "col": 1
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 1254084000000000000,
+   "rawValue": 125408400000000,
+   "sourceUnit": "亿元",
+   "rowKind": "subtotal",
+   "groupCode": "G3",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 26,
+    "col": 1
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 2570324000000000000,
+   "rawValue": 257032400000000,
+   "sourceUnit": "亿元",
+   "rowKind": "grandtotal",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 27,
+    "col": 1
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 286503,
+   "rawValue": 286503,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 2,
+   "cell": {
+    "row": 33,
+    "col": 1
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "D02",
+   "period": "2026Q1",
+   "value": 397068,
+   "rawValue": 397068,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 2,
+   "cell": {
+    "row": 35,
+    "col": 1
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 683571,
+   "rawValue": 683571,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "数据",
+   "blockIndex": 2,
+   "cell": {
+    "row": 37,
+    "col": 1
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "E01",
+   "period": "2026Q1",
+   "value": 745081,
+   "rawValue": 745081,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 2,
+   "cell": {
+    "row": 38,
+    "col": 1
+   }
+  },
+  {
+   "county": "宁安县",
+   "metricCode": "E02",
+   "period": "2026Q1",
+   "value": 674896,
+   "rawValue": 674896,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 2,
+   "cell": {
+    "row": 39,
+    "col": 1
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "multi-table-stacked",
+  "one-sheet",
+  "layout-vertical",
+  "unit-亿元"
+ ]
+}

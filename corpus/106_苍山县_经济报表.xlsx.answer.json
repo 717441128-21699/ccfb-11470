@@ -1,0 +1,174 @@
+{
+ "fileName": "106_苍山县_经济报表.xlsx",
+ "county": "苍山县",
+ "sheets": [
+  "数据"
+ ],
+ "blocks": [
+  {
+   "sheet": "数据",
+   "blockIndex": 0,
+   "title": "苍山县主要经济指标统计表",
+   "transposed": false,
+   "county": "苍山县",
+   "period": "2026Q1",
+   "tableUnit": "万元",
+   "excludedRows": [
+    4,
+    7,
+    9,
+    10,
+    12,
+    13,
+    14,
+    15
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "苍山县",
+   "metricCode": "A04",
+   "period": "2026Q1",
+   "value": 117380,
+   "rawValue": 117380,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 1
+   }
+  },
+  {
+   "county": "苍山县",
+   "metricCode": "A05",
+   "period": "2026Q1",
+   "value": 179337,
+   "rawValue": 179337,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 1
+   }
+  },
+  {
+   "county": "苍山县",
+   "metricCode": "A02",
+   "period": "2026Q1",
+   "value": 316155,
+   "rawValue": 316155,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 1
+   }
+  },
+  {
+   "county": "苍山县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 612872,
+   "rawValue": 612872,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 7,
+    "col": 1
+   }
+  },
+  {
+   "county": "苍山县",
+   "metricCode": "B02",
+   "period": "2026Q1",
+   "value": 46392,
+   "rawValue": 46392,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 8,
+    "col": 1
+   }
+  },
+  {
+   "county": "苍山县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 46392,
+   "rawValue": 46392,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G2",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 9,
+    "col": 1
+   }
+  },
+  {
+   "county": "苍山县",
+   "metricCode": "D02",
+   "period": "2026Q1",
+   "value": null,
+   "rawValue": null,
+   "sourceUnit": null,
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 11,
+    "col": 1
+   }
+  },
+  {
+   "county": "苍山县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": null,
+   "rawValue": null,
+   "sourceUnit": null,
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 13,
+    "col": 1
+   }
+  },
+  {
+   "county": "苍山县",
+   "metricCode": "A04",
+   "period": "2026Q1",
+   "value": 659264,
+   "rawValue": 659264,
+   "sourceUnit": "万元",
+   "rowKind": "grandtotal",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 14,
+    "col": 1
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "single-table",
+  "two-sheets",
+  "layout-vertical",
+  "tampered-total"
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "fileName": "013_清流县_经济报表.xlsx",
+ "county": "清流县",
+ "sheets": [
+  "经济指标表"
+ ],
+ "blocks": [
+  {
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "title": "清流县统计季报",
+   "transposed": true,
+   "county": "清流县",
+   "period": "2026Q1",
+   "tableUnit": "万吨标准煤",
+   "excludedRows": [
+    5
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "清流县",
+   "metricCode": "F01",
+   "period": "2026Q1",
+   "value": 552070000000000000,
+   "rawValue": 55207000000000,
+   "sourceUnit": "万吨标准煤",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "single-table",
+  "one-sheet",
+  "layout-transposed",
+  "unit-万吨标准煤"
+ ]
+}

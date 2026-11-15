@@ -1,0 +1,752 @@
+{
+ "fileName": "088_栖霞县_经济报表.xlsx",
+ "county": "栖霞县",
+ "sheets": [
+  "Sheet1"
+ ],
+ "blocks": [
+  {
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "title": "栖霞县主要经济指标统计表",
+   "transposed": false,
+   "county": "栖霞县",
+   "period": null,
+   "tableUnit": "千元",
+   "excludedRows": [
+    4,
+    10,
+    11,
+    14,
+    15
+   ]
+  },
+  {
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "title": "栖霞县主要经济指标统计表",
+   "transposed": false,
+   "county": "栖霞县",
+   "period": "2026Q1",
+   "tableUnit": "元",
+   "excludedRows": []
+  },
+  {
+   "sheet": "Sheet1",
+   "blockIndex": 2,
+   "title": "栖霞县统计季报",
+   "transposed": true,
+   "county": "栖霞县",
+   "period": "2026Q1",
+   "tableUnit": "万元",
+   "excludedRows": []
+  }
+ ],
+ "records": [
+  {
+   "county": "栖霞县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": null,
+   "rawValue": null,
+   "sourceUnit": null,
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 1
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "A01",
+   "period": "2026Q2",
+   "value": 880.852,
+   "rawValue": 8808.52,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 2
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "A01",
+   "period": "2026Q3",
+   "value": 710.082,
+   "rawValue": 7100.82,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 3
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "A01",
+   "period": "2026Q4",
+   "value": 686.133,
+   "rawValue": 6861.33,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 4
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "A02",
+   "period": "2026Q1",
+   "value": 288.078,
+   "rawValue": 2880.78,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 1
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "A02",
+   "period": "2026Q2",
+   "value": 335.395,
+   "rawValue": 3353.95,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 2
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "A02",
+   "period": "2026Q3",
+   "value": 855.055,
+   "rawValue": 8550.55,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 3
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "A02",
+   "period": "2026Q4",
+   "value": 222.892,
+   "rawValue": 2228.92,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 4
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "A03",
+   "period": "2026Q1",
+   "value": 542.015,
+   "rawValue": 5420.15,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 7,
+    "col": 1
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "A03",
+   "period": "2026Q2",
+   "value": 777.794,
+   "rawValue": 7777.94,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 7,
+    "col": 2
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "A03",
+   "period": "2026Q3",
+   "value": 399.664,
+   "rawValue": 3996.64,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 7,
+    "col": 3
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "A03",
+   "period": "2026Q4",
+   "value": 471.461,
+   "rawValue": 4714.61,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 7,
+    "col": 4
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "A04",
+   "period": "2026Q1",
+   "value": 973.767,
+   "rawValue": 9737.67,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 8,
+    "col": 1
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "A04",
+   "period": "2026Q2",
+   "value": 455.666,
+   "rawValue": 4556.66,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 8,
+    "col": 2
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "A04",
+   "period": "2026Q3",
+   "value": 318.689,
+   "rawValue": 3186.89,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 8,
+    "col": 3
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "A04",
+   "period": "2026Q4",
+   "value": 671.396,
+   "rawValue": 6713.96,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 8,
+    "col": 4
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "A05",
+   "period": "2026Q1",
+   "value": 176.733,
+   "rawValue": 1767.33,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 9,
+    "col": 1
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "A05",
+   "period": "2026Q2",
+   "value": 326.536,
+   "rawValue": 3265.36,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 9,
+    "col": 2
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "A05",
+   "period": "2026Q3",
+   "value": 387.752,
+   "rawValue": 3877.52,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 9,
+    "col": 3
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "A05",
+   "period": "2026Q4",
+   "value": 615.181,
+   "rawValue": 6151.81,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 9,
+    "col": 4
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 1980.593,
+   "rawValue": 19805.93,
+   "sourceUnit": "千元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 10,
+    "col": 1
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "A01",
+   "period": "2026Q2",
+   "value": 2776.243,
+   "rawValue": 27762.43,
+   "sourceUnit": "千元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 10,
+    "col": 2
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "A01",
+   "period": "2026Q3",
+   "value": 2671.242,
+   "rawValue": 26712.42,
+   "sourceUnit": "千元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 10,
+    "col": 3
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "A01",
+   "period": "2026Q4",
+   "value": 2667.063,
+   "rawValue": 26670.63,
+   "sourceUnit": "千元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 10,
+    "col": 4
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 157.757,
+   "rawValue": 1577.57,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 12,
+    "col": 1
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "D01",
+   "period": "2026Q2",
+   "value": 580.238,
+   "rawValue": 5802.38,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 12,
+    "col": 2
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "D01",
+   "period": "2026Q3",
+   "value": 390.997,
+   "rawValue": 3909.97,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 12,
+    "col": 3
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "D01",
+   "period": "2026Q4",
+   "value": 386.726,
+   "rawValue": 3867.26,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 12,
+    "col": 4
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "D02",
+   "period": "2026Q1",
+   "value": 539.491,
+   "rawValue": 5394.91,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 13,
+    "col": 1
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "D02",
+   "period": "2026Q2",
+   "value": 136.152,
+   "rawValue": 1361.52,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 13,
+    "col": 2
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "D02",
+   "period": "2026Q3",
+   "value": 815.305,
+   "rawValue": 8153.05,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 13,
+    "col": 3
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "D02",
+   "period": "2026Q4",
+   "value": 123.78,
+   "rawValue": 1237.8,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 13,
+    "col": 4
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 697.248,
+   "rawValue": 6972.48,
+   "sourceUnit": "千元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 14,
+    "col": 1
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "D01",
+   "period": "2026Q2",
+   "value": 716.39,
+   "rawValue": 7163.9,
+   "sourceUnit": "千元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 14,
+    "col": 2
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "D01",
+   "period": "2026Q3",
+   "value": 1206.302,
+   "rawValue": 12063.02,
+   "sourceUnit": "千元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 14,
+    "col": 3
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "D01",
+   "period": "2026Q4",
+   "value": 510.506,
+   "rawValue": 5105.06,
+   "sourceUnit": "千元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 14,
+    "col": 4
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 2677.841,
+   "rawValue": 26778.41,
+   "sourceUnit": "千元",
+   "rowKind": "grandtotal",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 15,
+    "col": 1
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "A01",
+   "period": "2026Q2",
+   "value": 3492.633,
+   "rawValue": 34926.33,
+   "sourceUnit": "千元",
+   "rowKind": "grandtotal",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 15,
+    "col": 2
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "A01",
+   "period": "2026Q3",
+   "value": 3877.544,
+   "rawValue": 38775.44,
+   "sourceUnit": "千元",
+   "rowKind": "grandtotal",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 15,
+    "col": 3
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "A01",
+   "period": "2026Q4",
+   "value": 3177.569,
+   "rawValue": 31775.69,
+   "sourceUnit": "千元",
+   "rowKind": "grandtotal",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 15,
+    "col": 4
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "E01",
+   "period": "2026Q1",
+   "value": 362354,
+   "rawValue": 362354,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 20,
+    "col": 1
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "E02",
+   "period": "2026Q1",
+   "value": 195937,
+   "rawValue": 195937,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 21,
+    "col": 1
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 875945,
+   "rawValue": 875945,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 2,
+   "cell": {
+    "row": 28,
+    "col": 1
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 323293,
+   "rawValue": 323293,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 2,
+   "cell": {
+    "row": 28,
+    "col": 2
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "B02",
+   "period": "2026Q1",
+   "value": 859124,
+   "rawValue": 859124,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 2,
+   "cell": {
+    "row": 28,
+    "col": 3
+   }
+  },
+  {
+   "county": "栖霞县",
+   "metricCode": "C02",
+   "period": "2026Q1",
+   "value": 734867,
+   "rawValue": 734867,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 2,
+   "cell": {
+    "row": 28,
+    "col": 4
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "multi-table-stacked",
+  "one-sheet",
+  "layout-vertical",
+  "multi-period",
+  "unit-千元"
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "fileName": "058_吉安县_经济报表.xlsx",
+ "county": "吉安县",
+ "sheets": [
+  "数据"
+ ],
+ "blocks": [
+  {
+   "sheet": "数据",
+   "blockIndex": 0,
+   "title": "吉安县经济社会发展指标表",
+   "transposed": false,
+   "county": "吉安县",
+   "period": "2026Q1",
+   "tableUnit": "元",
+   "excludedRows": [
+    6
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "吉安县",
+   "metricCode": "E01",
+   "period": "2026Q1",
+   "value": 831520,
+   "rawValue": 831520,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  },
+  {
+   "county": "吉安县",
+   "metricCode": "E02",
+   "period": "2026Q1",
+   "value": 353538,
+   "rawValue": 353538,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 1
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "single-table",
+  "one-sheet",
+  "layout-vertical"
+ ]
+}

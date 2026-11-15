@@ -1,0 +1,59 @@
+{
+ "fileName": "073_清流县_经济报表.xlsx",
+ "county": "清流县",
+ "sheets": [
+  "Sheet1"
+ ],
+ "blocks": [
+  {
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "title": "清流县2026年第一季度经济指标表",
+   "transposed": false,
+   "county": "清流县",
+   "period": "2026Q1",
+   "tableUnit": "元",
+   "excludedRows": [
+    4,
+    6
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "清流县",
+   "metricCode": "E01",
+   "period": "2026Q1",
+   "value": 702935,
+   "rawValue": 702935,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 1
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "E02",
+   "period": "2026Q1",
+   "value": 159448,
+   "rawValue": 159448,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 1
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "single-table",
+  "one-sheet",
+  "layout-vertical"
+ ]
+}

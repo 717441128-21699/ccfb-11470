@@ -1,0 +1,76 @@
+{
+ "fileName": "043_龙泉县_经济报表.xlsx",
+ "county": "龙泉县",
+ "sheets": [
+  "经济指标表"
+ ],
+ "blocks": [
+  {
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "title": "龙泉县2026年季度经济运行报表",
+   "transposed": false,
+   "county": "龙泉县",
+   "period": "2026Q1",
+   "tableUnit": "千元",
+   "excludedRows": [
+    5,
+    6
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "龙泉县",
+   "metricCode": "E01",
+   "period": "2026Q1",
+   "value": 824116000000000,
+   "rawValue": 824116000000,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 1
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "E02",
+   "period": "2026Q1",
+   "value": 907681000000000,
+   "rawValue": 907681000000,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "E01",
+   "period": "2026Q1",
+   "value": 1731801081000000,
+   "rawValue": 1731801081000,
+   "sourceUnit": "千元",
+   "rowKind": "grandtotal",
+   "sheet": "经济指标表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 1
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "single-table",
+  "one-sheet",
+  "layout-vertical",
+  "unit-千元",
+  "tampered-total"
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "fileName": "016_兴隆县_经济报表.xlsx",
+ "county": "兴隆县",
+ "sheets": [
+  "报表"
+ ],
+ "blocks": [
+  {
+   "sheet": "报表",
+   "blockIndex": 0,
+   "title": "兴隆县统计季报",
+   "transposed": false,
+   "county": "兴隆县",
+   "period": "2026Q1",
+   "tableUnit": "吨标准煤",
+   "excludedRows": [
+    4
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "兴隆县",
+   "metricCode": "F01",
+   "period": "2026Q1",
+   "value": 879202,
+   "rawValue": 879202,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 1
+   }
+  },
+  {
+   "county": "兴隆县",
+   "metricCode": "F01",
+   "period": "2026Q1",
+   "value": 879202,
+   "rawValue": 879202,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "grandtotal",
+   "sheet": "报表",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "single-table",
+  "two-sheets",
+  "layout-vertical"
+ ]
+}

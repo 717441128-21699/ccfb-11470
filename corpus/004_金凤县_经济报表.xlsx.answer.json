@@ -1,0 +1,148 @@
+{
+ "fileName": "004_金凤县_经济报表.xlsx",
+ "county": "金凤县",
+ "sheets": [
+  "数据"
+ ],
+ "blocks": [
+  {
+   "sheet": "数据",
+   "blockIndex": 0,
+   "title": "金凤县2026年季度经济运行报表",
+   "transposed": true,
+   "county": "金凤县",
+   "period": null,
+   "tableUnit": "千元",
+   "excludedRows": []
+  }
+ ],
+ "records": [
+  {
+   "county": "金凤县",
+   "metricCode": "E02",
+   "period": "2026Q1",
+   "value": 130387000000000,
+   "rawValue": 130387000000,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "E01",
+   "period": "2026Q1",
+   "value": 232711000000000,
+   "rawValue": 232711000000,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 2
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "E02",
+   "period": "2026Q2",
+   "value": 800171000000000,
+   "rawValue": 800171000000,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "E01",
+   "period": "2026Q2",
+   "value": 759969000000000,
+   "rawValue": 759969000000,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 2
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "E02",
+   "period": "2026Q3",
+   "value": 73915000000000,
+   "rawValue": 73915000000,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "E01",
+   "period": "2026Q3",
+   "value": 634995000000000,
+   "rawValue": 634995000000,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 2
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "E02",
+   "period": "2026Q4",
+   "value": 688207000000000,
+   "rawValue": 688207000000,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 1
+   }
+  },
+  {
+   "county": "金凤县",
+   "metricCode": "E01",
+   "period": "2026Q4",
+   "value": 172166000000000,
+   "rawValue": 172166000000,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 2
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "single-table",
+  "one-sheet",
+  "layout-transposed",
+  "multi-period",
+  "unit-千元"
+ ]
+}

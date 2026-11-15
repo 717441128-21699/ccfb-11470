@@ -1,0 +1,378 @@
+{
+ "fileName": "033_清流县_经济报表.xlsx",
+ "county": "清流县",
+ "sheets": [
+  "Sheet1"
+ ],
+ "blocks": [
+  {
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "title": "清流县2026年第一季度经济指标表",
+   "transposed": false,
+   "county": "清流县",
+   "period": "2026Q1",
+   "tableUnit": "万元",
+   "excludedRows": [
+    7,
+    9,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "title": "清流县统计季报",
+   "transposed": true,
+   "county": "清流县",
+   "period": "2026Q1",
+   "tableUnit": "万元",
+   "excludedRows": [
+    24,
+    25
+   ]
+  },
+  {
+   "sheet": "Sheet1",
+   "blockIndex": 2,
+   "title": "清流县2026年季度经济运行报表",
+   "transposed": false,
+   "county": "清流县",
+   "period": null,
+   "tableUnit": null,
+   "excludedRows": [
+    32,
+    34
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "清流县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 335474,
+   "rawValue": 335474,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 1
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "A02",
+   "period": "2026Q1",
+   "value": 617788,
+   "rawValue": 617788,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "A03",
+   "period": "2026Q1",
+   "value": 286787,
+   "rawValue": 286787,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 1
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "A04",
+   "period": "2026Q1",
+   "value": 160788,
+   "rawValue": 160788,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 1
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "A05",
+   "period": "2026Q1",
+   "value": null,
+   "rawValue": null,
+   "sourceUnit": null,
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 8,
+    "col": 1
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 1400837,
+   "rawValue": 1400837,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 9,
+    "col": 1
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 505928,
+   "rawValue": 505928,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 10,
+    "col": 1
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "B02",
+   "period": "2026Q1",
+   "value": 319349,
+   "rawValue": 319349,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 11,
+    "col": 1
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 825277,
+   "rawValue": 825277,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G2",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 13,
+    "col": 1
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 2226114,
+   "rawValue": 2226114,
+   "sourceUnit": "万元",
+   "rowKind": "grandtotal",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 15,
+    "col": 1
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 78022,
+   "rawValue": 78022,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 23,
+    "col": 1
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "C02",
+   "period": "2026Q1",
+   "value": 121268,
+   "rawValue": 121268,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 23,
+    "col": 2
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "C03",
+   "period": "2026Q1",
+   "value": 879138,
+   "rawValue": 879138,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 23,
+    "col": 3
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 716507,
+   "rawValue": 716507,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 23,
+    "col": 4
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "D02",
+   "period": "2026Q1",
+   "value": 451693,
+   "rawValue": 451693,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 23,
+    "col": 5
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "E01",
+   "period": "2026Q1",
+   "value": 555171,
+   "rawValue": 555171,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 2,
+   "cell": {
+    "row": 30,
+    "col": 1
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "E01",
+   "period": "2026Q2",
+   "value": 437094,
+   "rawValue": 437094,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 2,
+   "cell": {
+    "row": 30,
+    "col": 2
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "E02",
+   "period": "2026Q1",
+   "value": 540187,
+   "rawValue": 540187,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 2,
+   "cell": {
+    "row": 31,
+    "col": 1
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "E02",
+   "period": "2026Q2",
+   "value": 802025,
+   "rawValue": 802025,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 2,
+   "cell": {
+    "row": 31,
+    "col": 2
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "F01",
+   "period": "2026Q1",
+   "value": 871250,
+   "rawValue": 871250,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 2,
+   "cell": {
+    "row": 33,
+    "col": 1
+   }
+  },
+  {
+   "county": "清流县",
+   "metricCode": "F01",
+   "period": "2026Q2",
+   "value": 811718,
+   "rawValue": 811718,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 2,
+   "cell": {
+    "row": 33,
+    "col": 2
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "multi-table-stacked",
+  "one-sheet",
+  "layout-vertical",
+  "multi-period"
+ ]
+}

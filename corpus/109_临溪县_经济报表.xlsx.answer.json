@@ -1,0 +1,146 @@
+{
+ "fileName": "109_临溪县_经济报表.xlsx",
+ "county": "临溪县",
+ "sheets": [
+  "数据"
+ ],
+ "blocks": [
+  {
+   "sheet": "数据",
+   "blockIndex": 0,
+   "title": "临溪县2026年第一季度经济指标表",
+   "transposed": true,
+   "county": "临溪县",
+   "period": "2026Q1",
+   "tableUnit": "千元",
+   "excludedRows": [
+    5
+   ]
+  },
+  {
+   "sheet": "数据",
+   "blockIndex": 1,
+   "title": "临溪县2026年第一季度经济指标表",
+   "transposed": true,
+   "county": "临溪县",
+   "period": "2026Q1",
+   "tableUnit": null,
+   "excludedRows": [
+    12
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "临溪县",
+   "metricCode": "E02",
+   "period": "2026Q1",
+   "value": 74267000000000,
+   "rawValue": 74267000000,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  },
+  {
+   "county": "临溪县",
+   "metricCode": "E01",
+   "period": "2026Q1",
+   "value": 323564000000000,
+   "rawValue": 323564000000,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 2
+   }
+  },
+  {
+   "county": "临溪县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 365119,
+   "rawValue": 365119,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 11,
+    "col": 1
+   }
+  },
+  {
+   "county": "临溪县",
+   "metricCode": "B02",
+   "period": "2026Q1",
+   "value": 407102,
+   "rawValue": 407102,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 11,
+    "col": 2
+   }
+  },
+  {
+   "county": "临溪县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 106088,
+   "rawValue": 106088,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 11,
+    "col": 3
+   }
+  },
+  {
+   "county": "临溪县",
+   "metricCode": "D02",
+   "period": "2026Q1",
+   "value": 899361,
+   "rawValue": 899361,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 11,
+    "col": 4
+   }
+  },
+  {
+   "county": "临溪县",
+   "metricCode": "F01",
+   "period": "2026Q1",
+   "value": 673683,
+   "rawValue": 673683,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "数据",
+   "blockIndex": 1,
+   "cell": {
+    "row": 11,
+    "col": 5
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "multi-table-stacked",
+  "one-sheet",
+  "layout-transposed",
+  "unit-千元"
+ ]
+}

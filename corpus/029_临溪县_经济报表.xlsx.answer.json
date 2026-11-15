@@ -1,0 +1,592 @@
+{
+ "fileName": "029_临溪县_经济报表.xlsx",
+ "county": "临溪县",
+ "sheets": [
+  "Sheet1"
+ ],
+ "blocks": [
+  {
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "title": "临溪县经济社会发展指标表",
+   "transposed": false,
+   "county": "临溪县",
+   "period": null,
+   "tableUnit": null,
+   "excludedRows": [
+    4,
+    8,
+    9,
+    11,
+    12,
+    13,
+    15,
+    17,
+    18,
+    19,
+    21,
+    23
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "临溪县",
+   "metricCode": "A03",
+   "period": "2026Q1",
+   "value": 469125,
+   "rawValue": 469125,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 1
+   }
+  },
+  {
+   "county": "临溪县",
+   "metricCode": "A03",
+   "period": "2026Q2",
+   "value": 14157,
+   "rawValue": 14157,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 2
+   }
+  },
+  {
+   "county": "临溪县",
+   "metricCode": "A03",
+   "period": "2026Q3",
+   "value": 18446,
+   "rawValue": 18446,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 3
+   }
+  },
+  {
+   "county": "临溪县",
+   "metricCode": "A02",
+   "period": "2026Q1",
+   "value": 871873,
+   "rawValue": 871873,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 1
+   }
+  },
+  {
+   "county": "临溪县",
+   "metricCode": "A02",
+   "period": "2026Q2",
+   "value": 841887,
+   "rawValue": 841887,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 2
+   }
+  },
+  {
+   "county": "临溪县",
+   "metricCode": "A02",
+   "period": "2026Q3",
+   "value": 852973,
+   "rawValue": 852973,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 3
+   }
+  },
+  {
+   "county": "临溪县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 21830,
+   "rawValue": 21830,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 7,
+    "col": 1
+   }
+  },
+  {
+   "county": "临溪县",
+   "metricCode": "A01",
+   "period": "2026Q2",
+   "value": 162903,
+   "rawValue": 162903,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 7,
+    "col": 2
+   }
+  },
+  {
+   "county": "临溪县",
+   "metricCode": "A01",
+   "period": "2026Q3",
+   "value": 696599,
+   "rawValue": 696599,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 7,
+    "col": 3
+   }
+  },
+  {
+   "county": "临溪县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 1362828,
+   "rawValue": 1362828,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 8,
+    "col": 1
+   }
+  },
+  {
+   "county": "临溪县",
+   "metricCode": "A01",
+   "period": "2026Q2",
+   "value": 1018947,
+   "rawValue": 1018947,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 8,
+    "col": 2
+   }
+  },
+  {
+   "county": "临溪县",
+   "metricCode": "A01",
+   "period": "2026Q3",
+   "value": 1568018,
+   "rawValue": 1568018,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 8,
+    "col": 3
+   }
+  },
+  {
+   "county": "临溪县",
+   "metricCode": "B02",
+   "period": "2026Q1",
+   "value": 489587,
+   "rawValue": 489587,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 10,
+    "col": 1
+   }
+  },
+  {
+   "county": "临溪县",
+   "metricCode": "B02",
+   "period": "2026Q2",
+   "value": 325734,
+   "rawValue": 325734,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 10,
+    "col": 2
+   }
+  },
+  {
+   "county": "临溪县",
+   "metricCode": "B02",
+   "period": "2026Q3",
+   "value": 481898,
+   "rawValue": 481898,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 10,
+    "col": 3
+   }
+  },
+  {
+   "county": "临溪县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 489587,
+   "rawValue": 489587,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G2",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 12,
+    "col": 1
+   }
+  },
+  {
+   "county": "临溪县",
+   "metricCode": "B01",
+   "period": "2026Q2",
+   "value": 325734,
+   "rawValue": 325734,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G2",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 12,
+    "col": 2
+   }
+  },
+  {
+   "county": "临溪县",
+   "metricCode": "B01",
+   "period": "2026Q3",
+   "value": 481898,
+   "rawValue": 481898,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G2",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 12,
+    "col": 3
+   }
+  },
+  {
+   "county": "临溪县",
+   "metricCode": "C03",
+   "period": "2026Q1",
+   "value": 650079,
+   "rawValue": 650079,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 14,
+    "col": 1
+   }
+  },
+  {
+   "county": "临溪县",
+   "metricCode": "C03",
+   "period": "2026Q2",
+   "value": 494174,
+   "rawValue": 494174,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 14,
+    "col": 2
+   }
+  },
+  {
+   "county": "临溪县",
+   "metricCode": "C03",
+   "period": "2026Q3",
+   "value": 591772,
+   "rawValue": 591772,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 14,
+    "col": 3
+   }
+  },
+  {
+   "county": "临溪县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 153766,
+   "rawValue": 153766,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 16,
+    "col": 1
+   }
+  },
+  {
+   "county": "临溪县",
+   "metricCode": "C01",
+   "period": "2026Q2",
+   "value": 382250,
+   "rawValue": 382250,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 16,
+    "col": 2
+   }
+  },
+  {
+   "county": "临溪县",
+   "metricCode": "C01",
+   "period": "2026Q3",
+   "value": 317075,
+   "rawValue": 317075,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 16,
+    "col": 3
+   }
+  },
+  {
+   "county": "临溪县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 803845,
+   "rawValue": 803845,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G3",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 17,
+    "col": 1
+   }
+  },
+  {
+   "county": "临溪县",
+   "metricCode": "C01",
+   "period": "2026Q2",
+   "value": 876424,
+   "rawValue": 876424,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G3",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 17,
+    "col": 2
+   }
+  },
+  {
+   "county": "临溪县",
+   "metricCode": "C01",
+   "period": "2026Q3",
+   "value": 908847,
+   "rawValue": 908847,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G3",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 17,
+    "col": 3
+   }
+  },
+  {
+   "county": "临溪县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 33190,
+   "rawValue": 33190,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 20,
+    "col": 1
+   }
+  },
+  {
+   "county": "临溪县",
+   "metricCode": "D01",
+   "period": "2026Q2",
+   "value": null,
+   "rawValue": null,
+   "sourceUnit": null,
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 20,
+    "col": 2
+   }
+  },
+  {
+   "county": "临溪县",
+   "metricCode": "D01",
+   "period": "2026Q3",
+   "value": 757513,
+   "rawValue": 757513,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 20,
+    "col": 3
+   }
+  },
+  {
+   "county": "临溪县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 33190,
+   "rawValue": 33190,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 21,
+    "col": 1
+   }
+  },
+  {
+   "county": "临溪县",
+   "metricCode": "D01",
+   "period": "2026Q2",
+   "value": null,
+   "rawValue": null,
+   "sourceUnit": null,
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 21,
+    "col": 2
+   }
+  },
+  {
+   "county": "临溪县",
+   "metricCode": "D01",
+   "period": "2026Q3",
+   "value": 757513,
+   "rawValue": 757513,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 21,
+    "col": 3
+   }
+  },
+  {
+   "county": "临溪县",
+   "metricCode": "E01",
+   "period": "2026Q1",
+   "value": 349076,
+   "rawValue": 349076,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 22,
+    "col": 1
+   }
+  },
+  {
+   "county": "临溪县",
+   "metricCode": "E01",
+   "period": "2026Q2",
+   "value": 285043,
+   "rawValue": 285043,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 22,
+    "col": 2
+   }
+  },
+  {
+   "county": "临溪县",
+   "metricCode": "E01",
+   "period": "2026Q3",
+   "value": 951148,
+   "rawValue": 951148,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 22,
+    "col": 3
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "single-table",
+  "two-sheets",
+  "layout-vertical",
+  "multi-period"
+ ]
+}

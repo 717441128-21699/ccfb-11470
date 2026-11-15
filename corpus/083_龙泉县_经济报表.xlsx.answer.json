@@ -1,0 +1,575 @@
+{
+ "fileName": "083_龙泉县_经济报表.xlsx",
+ "county": "龙泉县",
+ "sheets": [
+  "经济指标",
+  "投资与能耗"
+ ],
+ "blocks": [
+  {
+   "sheet": "经济指标",
+   "blockIndex": 0,
+   "title": "龙泉县2026年季度经济运行报表",
+   "transposed": false,
+   "county": "龙泉县",
+   "period": "2026Q1",
+   "tableUnit": null,
+   "excludedRows": [
+    5,
+    6,
+    8
+   ]
+  },
+  {
+   "sheet": "投资与能耗",
+   "blockIndex": 1,
+   "title": "龙泉县2026年季度经济运行报表",
+   "transposed": false,
+   "county": "龙泉县",
+   "period": null,
+   "tableUnit": "万元",
+   "excludedRows": [
+    8,
+    12,
+    13
+   ]
+  },
+  {
+   "sheet": "投资与能耗",
+   "blockIndex": 2,
+   "title": "龙泉县2026年季度经济运行报表",
+   "transposed": true,
+   "county": "龙泉县",
+   "period": null,
+   "tableUnit": null,
+   "excludedRows": [
+    22
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "龙泉县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 900958,
+   "rawValue": 900958,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标",
+   "blockIndex": 0,
+   "cell": {
+    "row": 3,
+    "col": 1
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "B02",
+   "period": "2026Q1",
+   "value": 921356,
+   "rawValue": 921356,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "经济指标",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 1822314,
+   "rawValue": 1822314,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G2",
+   "sheet": "经济指标",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 1
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "E01",
+   "period": "2026Q1",
+   "value": 173392,
+   "rawValue": 173392,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "经济指标",
+   "blockIndex": 0,
+   "cell": {
+    "row": 7,
+    "col": 1
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "E02",
+   "period": "2026Q1",
+   "value": 45948,
+   "rawValue": 45948,
+   "sourceUnit": "元",
+   "rowKind": "data",
+   "sheet": "经济指标",
+   "blockIndex": 0,
+   "cell": {
+    "row": 9,
+    "col": 1
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 478708,
+   "rawValue": 478708,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 1,
+   "cell": {
+    "row": 3,
+    "col": 1
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "A01",
+   "period": "2026Q2",
+   "value": 35882,
+   "rawValue": 35882,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 1,
+   "cell": {
+    "row": 3,
+    "col": 2
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "A02",
+   "period": "2026Q1",
+   "value": 856007,
+   "rawValue": 856007,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 1,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "A02",
+   "period": "2026Q2",
+   "value": 71220,
+   "rawValue": 71220,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 1,
+   "cell": {
+    "row": 4,
+    "col": 2
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "A03",
+   "period": "2026Q1",
+   "value": 529113,
+   "rawValue": 529113,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 1,
+   "cell": {
+    "row": 5,
+    "col": 1
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "A03",
+   "period": "2026Q2",
+   "value": 902379,
+   "rawValue": 902379,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 1,
+   "cell": {
+    "row": 5,
+    "col": 2
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "A04",
+   "period": "2026Q1",
+   "value": 723097,
+   "rawValue": 723097,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 1,
+   "cell": {
+    "row": 6,
+    "col": 1
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "A04",
+   "period": "2026Q2",
+   "value": 437530,
+   "rawValue": 437530,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 1,
+   "cell": {
+    "row": 6,
+    "col": 2
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "A05",
+   "period": "2026Q1",
+   "value": 539665,
+   "rawValue": 539665,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 1,
+   "cell": {
+    "row": 7,
+    "col": 1
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "A05",
+   "period": "2026Q2",
+   "value": 583409,
+   "rawValue": 583409,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 1,
+   "cell": {
+    "row": 7,
+    "col": 2
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 3126590,
+   "rawValue": 3126590,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "投资与能耗",
+   "blockIndex": 1,
+   "cell": {
+    "row": 8,
+    "col": 1
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "A01",
+   "period": "2026Q2",
+   "value": 2030420,
+   "rawValue": 2030420,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "投资与能耗",
+   "blockIndex": 1,
+   "cell": {
+    "row": 8,
+    "col": 2
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 800145,
+   "rawValue": 800145,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 1,
+   "cell": {
+    "row": 9,
+    "col": 1
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "C01",
+   "period": "2026Q2",
+   "value": 583886,
+   "rawValue": 583886,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 1,
+   "cell": {
+    "row": 9,
+    "col": 2
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "C02",
+   "period": "2026Q1",
+   "value": 26425,
+   "rawValue": 26425,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 1,
+   "cell": {
+    "row": 10,
+    "col": 1
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "C02",
+   "period": "2026Q2",
+   "value": 739650,
+   "rawValue": 739650,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 1,
+   "cell": {
+    "row": 10,
+    "col": 2
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "C03",
+   "period": "2026Q1",
+   "value": 416471,
+   "rawValue": 416471,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 1,
+   "cell": {
+    "row": 11,
+    "col": 1
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "C03",
+   "period": "2026Q2",
+   "value": 669761,
+   "rawValue": 669761,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 1,
+   "cell": {
+    "row": 11,
+    "col": 2
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 1243041,
+   "rawValue": 1243041,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G3",
+   "sheet": "投资与能耗",
+   "blockIndex": 1,
+   "cell": {
+    "row": 12,
+    "col": 1
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "C01",
+   "period": "2026Q2",
+   "value": 1993297,
+   "rawValue": 1993297,
+   "sourceUnit": "万元",
+   "rowKind": "subtotal",
+   "groupCode": "G3",
+   "sheet": "投资与能耗",
+   "blockIndex": 1,
+   "cell": {
+    "row": 12,
+    "col": 2
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 456478,
+   "rawValue": 456478,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 2,
+   "cell": {
+    "row": 19,
+    "col": 1
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "D02",
+   "period": "2026Q1",
+   "value": 299360,
+   "rawValue": 299360,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 2,
+   "cell": {
+    "row": 19,
+    "col": 2
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "F01",
+   "period": "2026Q1",
+   "value": 468332,
+   "rawValue": 468332,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 2,
+   "cell": {
+    "row": 19,
+    "col": 3
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "D01",
+   "period": "2026Q2",
+   "value": 737973,
+   "rawValue": 737973,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 2,
+   "cell": {
+    "row": 20,
+    "col": 1
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "D02",
+   "period": "2026Q2",
+   "value": 188029,
+   "rawValue": 188029,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 2,
+   "cell": {
+    "row": 20,
+    "col": 2
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "F01",
+   "period": "2026Q2",
+   "value": 722738,
+   "rawValue": 722738,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 2,
+   "cell": {
+    "row": 20,
+    "col": 3
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "D01",
+   "period": "2026Q3",
+   "value": null,
+   "rawValue": null,
+   "sourceUnit": null,
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 2,
+   "cell": {
+    "row": 21,
+    "col": 1
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "D02",
+   "period": "2026Q3",
+   "value": 160693,
+   "rawValue": 160693,
+   "sourceUnit": "万元",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 2,
+   "cell": {
+    "row": 21,
+    "col": 2
+   }
+  },
+  {
+   "county": "龙泉县",
+   "metricCode": "F01",
+   "period": "2026Q3",
+   "value": 775232,
+   "rawValue": 775232,
+   "sourceUnit": "吨标准煤",
+   "rowKind": "data",
+   "sheet": "投资与能耗",
+   "blockIndex": 2,
+   "cell": {
+    "row": 21,
+    "col": 3
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "multi-table-stacked",
+  "two-sheets",
+  "layout-vertical",
+  "tampered-total",
+  "multi-period",
+  "multi-period"
+ ]
+}

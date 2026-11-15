@@ -1,0 +1,738 @@
+{
+ "fileName": "055_太平县_经济报表.xlsx",
+ "county": "太平县",
+ "sheets": [
+  "Sheet1"
+ ],
+ "blocks": [
+  {
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "title": "太平县统计季报",
+   "transposed": false,
+   "county": "太平县",
+   "period": "2026Q1",
+   "tableUnit": "亿元",
+   "excludedRows": [
+    3,
+    6,
+    7
+   ]
+  },
+  {
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "title": "太平县统计季报",
+   "transposed": false,
+   "county": "太平县",
+   "period": null,
+   "tableUnit": "千元",
+   "excludedRows": [
+    4,
+    10,
+    11,
+    15,
+    16,
+    19,
+    20,
+    21
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "太平县",
+   "metricCode": "B02",
+   "period": "2026Q1",
+   "value": null,
+   "rawValue": null,
+   "sourceUnit": null,
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 795289000000000000,
+   "rawValue": 79528900000000,
+   "sourceUnit": "亿元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 1
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "B01",
+   "period": "2026Q1",
+   "value": 795289476200000000,
+   "rawValue": 79528947620000,
+   "sourceUnit": "亿元",
+   "rowKind": "subtotal",
+   "groupCode": "G2",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 6,
+    "col": 1
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 688.903,
+   "rawValue": 6889.03,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 5,
+    "col": 6
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "A01",
+   "period": "2026Q2",
+   "value": 705.92,
+   "rawValue": 7059.2,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 5,
+    "col": 7
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "A01",
+   "period": "2026Q3",
+   "value": 532.055,
+   "rawValue": 5320.55,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 5,
+    "col": 8
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "A02",
+   "period": "2026Q1",
+   "value": 410.028,
+   "rawValue": 4100.28,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 6,
+    "col": 6
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "A02",
+   "period": "2026Q2",
+   "value": 476.52,
+   "rawValue": 4765.2,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 6,
+    "col": 7
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "A02",
+   "period": "2026Q3",
+   "value": 426.674,
+   "rawValue": 4266.74,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 6,
+    "col": 8
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "A03",
+   "period": "2026Q1",
+   "value": 412.105,
+   "rawValue": 4121.05,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 7,
+    "col": 6
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "A03",
+   "period": "2026Q2",
+   "value": 959.134,
+   "rawValue": 9591.34,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 7,
+    "col": 7
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "A03",
+   "period": "2026Q3",
+   "value": 482.134,
+   "rawValue": 4821.34,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 7,
+    "col": 8
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "A04",
+   "period": "2026Q1",
+   "value": 130.819,
+   "rawValue": 1308.19,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 8,
+    "col": 6
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "A04",
+   "period": "2026Q2",
+   "value": 898.04,
+   "rawValue": 8980.4,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 8,
+    "col": 7
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "A04",
+   "period": "2026Q3",
+   "value": 771.179,
+   "rawValue": 7711.79,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 8,
+    "col": 8
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "A05",
+   "period": "2026Q1",
+   "value": 411.425,
+   "rawValue": 4114.25,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 9,
+    "col": 6
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "A05",
+   "period": "2026Q2",
+   "value": 807.492,
+   "rawValue": 8074.92,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 9,
+    "col": 7
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "A05",
+   "period": "2026Q3",
+   "value": 42.412,
+   "rawValue": 424.12,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 9,
+    "col": 8
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 2053.28,
+   "rawValue": 20532.8,
+   "sourceUnit": "千元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 10,
+    "col": 6
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "A01",
+   "period": "2026Q2",
+   "value": 3847.106,
+   "rawValue": 38471.06,
+   "sourceUnit": "千元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 10,
+    "col": 7
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "A01",
+   "period": "2026Q3",
+   "value": 2254.454,
+   "rawValue": 22544.54,
+   "sourceUnit": "千元",
+   "rowKind": "subtotal",
+   "groupCode": "G1",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 10,
+    "col": 8
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 707.975,
+   "rawValue": 7079.75,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 12,
+    "col": 6
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "C01",
+   "period": "2026Q2",
+   "value": 944.053,
+   "rawValue": 9440.53,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 12,
+    "col": 7
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "C01",
+   "period": "2026Q3",
+   "value": 616.12,
+   "rawValue": 6161.2,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 12,
+    "col": 8
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "C02",
+   "period": "2026Q1",
+   "value": 353.144,
+   "rawValue": 3531.44,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 13,
+    "col": 6
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "C02",
+   "period": "2026Q2",
+   "value": 92.724,
+   "rawValue": 927.24,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 13,
+    "col": 7
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "C02",
+   "period": "2026Q3",
+   "value": 341.667,
+   "rawValue": 3416.67,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 13,
+    "col": 8
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "C03",
+   "period": "2026Q1",
+   "value": 378.687,
+   "rawValue": 3786.87,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 14,
+    "col": 6
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "C03",
+   "period": "2026Q2",
+   "value": 894.055,
+   "rawValue": 8940.55,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 14,
+    "col": 7
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "C03",
+   "period": "2026Q3",
+   "value": 433.263,
+   "rawValue": 4332.63,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 14,
+    "col": 8
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "C01",
+   "period": "2026Q1",
+   "value": 1439.806,
+   "rawValue": 14398.06,
+   "sourceUnit": "千元",
+   "rowKind": "subtotal",
+   "groupCode": "G3",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 15,
+    "col": 6
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "C01",
+   "period": "2026Q2",
+   "value": 1930.832,
+   "rawValue": 19308.32,
+   "sourceUnit": "千元",
+   "rowKind": "subtotal",
+   "groupCode": "G3",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 15,
+    "col": 7
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "C01",
+   "period": "2026Q3",
+   "value": 1391.05,
+   "rawValue": 13910.5,
+   "sourceUnit": "千元",
+   "rowKind": "subtotal",
+   "groupCode": "G3",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 15,
+    "col": 8
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 22.227,
+   "rawValue": 222.27,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 17,
+    "col": 6
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "D01",
+   "period": "2026Q2",
+   "value": 56.935,
+   "rawValue": 569.35,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 17,
+    "col": 7
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "D01",
+   "period": "2026Q3",
+   "value": 384.293,
+   "rawValue": 3842.93,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 17,
+    "col": 8
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "D02",
+   "period": "2026Q1",
+   "value": 891.459,
+   "rawValue": 8914.59,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 18,
+    "col": 6
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "D02",
+   "period": "2026Q2",
+   "value": 500.353,
+   "rawValue": 5003.53,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 18,
+    "col": 7
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "D02",
+   "period": "2026Q3",
+   "value": 910.985,
+   "rawValue": 9109.85,
+   "sourceUnit": "千元",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 18,
+    "col": 8
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "D01",
+   "period": "2026Q1",
+   "value": 913.686,
+   "rawValue": 9136.86,
+   "sourceUnit": "千元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 19,
+    "col": 6
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "D01",
+   "period": "2026Q2",
+   "value": 557.288,
+   "rawValue": 5572.88,
+   "sourceUnit": "千元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 19,
+    "col": 7
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "D01",
+   "period": "2026Q3",
+   "value": 1295.278,
+   "rawValue": 12952.78,
+   "sourceUnit": "千元",
+   "rowKind": "subtotal",
+   "groupCode": "G4",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 19,
+    "col": 8
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "A01",
+   "period": "2026Q1",
+   "value": 4406.772,
+   "rawValue": 44067.72,
+   "sourceUnit": "千元",
+   "rowKind": "grandtotal",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 20,
+    "col": 6
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "A01",
+   "period": "2026Q2",
+   "value": 6335.226,
+   "rawValue": 63352.26,
+   "sourceUnit": "千元",
+   "rowKind": "grandtotal",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 20,
+    "col": 7
+   }
+  },
+  {
+   "county": "太平县",
+   "metricCode": "A01",
+   "period": "2026Q3",
+   "value": 4940.782,
+   "rawValue": 49407.82,
+   "sourceUnit": "千元",
+   "rowKind": "grandtotal",
+   "sheet": "Sheet1",
+   "blockIndex": 1,
+   "cell": {
+    "row": 20,
+    "col": 8
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "multi-table-side-by-side",
+  "one-sheet",
+  "layout-vertical",
+  "unit-亿元",
+  "tampered-total",
+  "multi-period",
+  "unit-千元"
+ ]
+}

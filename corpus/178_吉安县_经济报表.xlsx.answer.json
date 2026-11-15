@@ -1,0 +1,91 @@
+{
+ "fileName": "178_吉安县_经济报表.xlsx",
+ "county": "吉安县",
+ "sheets": [
+  "Sheet1"
+ ],
+ "blocks": [
+  {
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "title": "吉安县经济社会发展指标表",
+   "transposed": false,
+   "county": "吉安县",
+   "period": null,
+   "tableUnit": "万吨标准煤",
+   "excludedRows": [
+    5,
+    6
+   ]
+  }
+ ],
+ "records": [
+  {
+   "county": "吉安县",
+   "metricCode": "F01",
+   "period": "2026Q1",
+   "value": 238217000000000000,
+   "rawValue": 23821700000000,
+   "sourceUnit": "万吨标准煤",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 1
+   }
+  },
+  {
+   "county": "吉安县",
+   "metricCode": "F01",
+   "period": "2026Q2",
+   "value": 817142000000000000,
+   "rawValue": 81714200000000,
+   "sourceUnit": "万吨标准煤",
+   "rowKind": "data",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 4,
+    "col": 2
+   }
+  },
+  {
+   "county": "吉安县",
+   "metricCode": "F01",
+   "period": "2026Q1",
+   "value": 238217000000000000,
+   "rawValue": 23821700000000,
+   "sourceUnit": "万吨标准煤",
+   "rowKind": "grandtotal",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 1
+   }
+  },
+  {
+   "county": "吉安县",
+   "metricCode": "F01",
+   "period": "2026Q2",
+   "value": 817142000000000000,
+   "rawValue": 81714200000000,
+   "sourceUnit": "万吨标准煤",
+   "rowKind": "grandtotal",
+   "sheet": "Sheet1",
+   "blockIndex": 0,
+   "cell": {
+    "row": 5,
+    "col": 2
+   }
+  }
+ ],
+ "layoutFeatures": [
+  "single-table",
+  "one-sheet",
+  "layout-vertical",
+  "multi-period",
+  "unit-万吨标准煤"
+ ]
+}
